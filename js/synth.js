@@ -5,7 +5,7 @@
 export class Synth {
 
     constructor() {
-        Tone.Transport.bpm.value = 120; 
+        Tone.Transport.bpm.value = 120;
 
         this.stabSynth = new Tone.MonoSynth({
             oscillator: {

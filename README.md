@@ -1,6 +1,6 @@
 # Roland AIRA J6 Chord Player
 
-![keyboard](aira.png)
+![keyboard](aira-img.png)
 
 This is an interface to see which Chords the Roland AIRA J6 plays.
 
