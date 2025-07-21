@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1024">
+    <title>Roland AIRA J6</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bitcount:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="http://unpkg.com/tone"></script>
+    <script defer type="module" src="./js/script.js"></script>
+</head>
+
+<!-- show visually which chords are played, so we know which keys we can use for the melody -->
+<!-- TODO ON CHANGE CHORD SET, UPDATE CHORD INFO -->
+
+<body>
+    <div id="piano">
+        <div class="toprow">
+            <div class="logo"><h2>ROLAND AIRA J6</h2></div>
+            <div class="pages"></div>
+        </div>
+        <div class="info">
+            <div>
+                <label for="chordset">GENRE</label>
+                <input type="number" id="chordset" name="chordset" min="1" max="100" value="1">
+                <div id="genre">Pop</div>
+            </div>
+            <div>
+                <div class="toggle-container">
+                    <label class="toggle-label-left">Chords</label>
+                    <div class="toggle-switch">
+                        <input type="checkbox" id="setchords" class="toggle-input">
+                        <label for="setchords" class="toggle-slider"></label>
+                    </div>
+                    <label class="toggle-label-right">Sound</label>
+                </div>
+            </div>
+            <div>
+                <div class="toggle-container">
+                    <label class="toggle-label">Arp</label>
+                    <div class="toggle-switch">
+                        <input type="checkbox" id="arpeggio" class="toggle-input">
+                        <label for="arpeggio" class="toggle-slider"></label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class="whitekeys">
+            <div class="key grey" data-note="C3"></div>
+            <div class="key grey" data-note="D3"></div>
+            <div class="key grey" data-note="E3"></div>
+            <div class="key grey" data-note="F3"></div>
+            <div class="key grey" data-note="G3"></div>
+            <div class="key grey" data-note="A3"></div>
+            <div class="key grey" data-note="B3"></div>
+    
+            <div class="key" data-note="C4"></div>
+            <div class="key" data-note="D4"></div>
+            <div class="key" data-note="E4"></div>
+            <div class="key" data-note="F4"></div>
+            <div class="key" data-note="G4"></div>
+            <div class="key" data-note="A4"></div>
+            <div class="key" data-note="B4"></div>
+    
+            <div class="key grey" data-note="C5"></div>
+            <div class="key grey" data-note="D5"></div>
+            <div class="key grey" data-note="E5"></div>
+            <div class="key grey" data-note="F5"></div>
+            <div class="key grey" data-note="G5"></div>
+            <div class="key grey" data-note="A5"></div>
+            <div class="key grey" data-note="B5"></div>
+        </div>
+        <div class="blackkeys">
+            <div class="key" data-note="C#3"></div>
+            <div class="key" data-note="D#3"></div>
+            <div class="nokey"></div>
+    
+            <div class="key" data-note="F#3"></div>
+            <div class="key" data-note="G#3"></div>
+            <div class="key" data-note="A#3"></div>
+            <div class="nokey"></div>
+    
+            <div class="key" data-note="C#4"></div>
+            <div class="key" data-note="D#4"></div>
+            <div class="nokey"></div>
+    
+            <div class="key" data-note="F#4"></div>
+            <div class="key" data-note="G#4"></div>
+            <div class="key" data-note="A#4"></div>
+            <div class="nokey"></div>
+    
+            <div class="key" data-note="C#5"></div>
+            <div class="key" data-note="D#5"></div>
+            <div class="nokey"></div>
+    
+            <div class="key" data-note="F#5"></div>
+            <div class="key" data-note="G#5"></div>
+            <div class="key" data-note="A#5"></div>
+        </div>
+    
+    
+    </div>
+    <div class="explanation">
+        <div class="howto">
+            <h3>Roland AIRA J6 Chords</h3>
+            <p>This tool shows the chords from the <a href="https://static.roland.com/manuals/J-6_manual_v102/eng/28645807.html"><em>Roland Aira J6 Chord Sets</em></a></p>
+            <p>Play your computer keyboard to hear <em>chords</em> from the selected genre, <br> to create your own progression!</p>
+            <p class="footer">
+                Made by &nbsp;<a href="https://kokodoko.github.io">Erik</a> &nbsp; | &nbsp; Synth made with &nbsp;<a href="https://tonejs.github.io">Tone.js</a> &nbsp; | &nbsp;<a href="https://www.roland.com/us/products/j-6/">Roland AIRA J6</a>
+            </p>
+        </div>
+        <div class="chord-display"></div>
+        <button>clear</button>
+    </div>
+
+   
+
+</body>
+</html>

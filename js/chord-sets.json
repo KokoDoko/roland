@@ -1,0 +1,5402 @@
+[
+  {
+    "set": 1,
+    "name": "Pop",
+    "chords": {
+      "C": {
+        "name": "Cadd9",
+        "notes": ["E4", "D4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "C#M9/C",
+        "notes": ["F4", "D#4", "C4", "C#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C4", "A3", "F4", "D3"]
+      },
+      "Ds": {
+        "name": "D#M7",
+        "notes": ["G4", "D4", "A#3", "D#3"]
+      },
+      "E": {
+        "name": "Cadd9/E",
+        "notes": ["G4", "D4", "C4", "E3"]
+      },
+      "F": {
+        "name": "FM9",
+        "notes": ["G4", "E4", "A3", "F2"]
+      },
+      "Fs": {
+        "name": "Dadd9/F#",
+        "notes": ["E4", "D4", "A3", "F#2"]
+      },
+      "G": {
+        "name": "Em7/G",
+        "notes": ["G4", "E4", "D4", "G2"]
+      },
+      "Gs": {
+        "name": "Fm6/G#",
+        "notes": ["F4", "D4", "C4", "G#2"]
+      },
+      "A": {
+        "name": "FM/A",
+        "notes": ["F4", "C4", "A3", "A2"]
+      },
+      "As": {
+        "name": "Gm/A#",
+        "notes": ["G4", "D4", "A#3", "A#2"]
+      },
+      "B": {
+        "name": "G/B",
+        "notes": ["G4", "D4", "B3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 2,
+    "name": "Pop",
+    "chords": {
+      "C": {
+        "name": "CM9",
+        "notes": ["D4", "B3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "C#dim7",
+        "notes": ["E4", "A#3", "G3", "C#3"]
+      },
+      "D": {
+        "name": "Dm9",
+        "notes": ["E4", "C4", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "D# dim7",
+        "notes": ["F#4", "C4", "A3", "D#3"]
+      },
+      "E": {
+        "name": "Em7",
+        "notes": ["G4", "D4", "B3", "E3"]
+      },
+      "F": {
+        "name": "FM9",
+        "notes": ["G4", "E4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "F#m7b5",
+        "notes": ["E4", "C4", "A3", "F#3"]
+      },
+      "G": {
+        "name": "F/A",
+        "notes": ["F4", "C4", "A3", "G2"]
+      },
+      "Gs": {
+        "name": "G# dim7",
+        "notes": ["F4", "D4", "B3", "G#2"]
+      },
+      "A": {
+        "name": "Am9",
+        "notes": ["G4", "C4", "B3", "A2"]
+      },
+      "As": {
+        "name": "C/A#",
+        "notes": ["E4", "C4", "G3", "A#2"]
+      },
+      "B": {
+        "name": "Bm7b5",
+        "notes": ["F4", "D4", "A3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 3,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "D7sus2/C",
+        "notes": ["D4", "A3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "C#7#9",
+        "notes": ["E4", "B3", "F3", "C#3"]
+      },
+      "D": {
+        "name": "Dm9",
+        "notes": ["E4", "C4", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "D7#9",
+        "notes": ["F#4", "C#4", "G3", "D#3"]
+      },
+      "E": {
+        "name": "E7#9",
+        "notes": ["G4", "D4", "G#3", "E3"]
+      },
+      "F": {
+        "name": "FM9",
+        "notes": ["G4", "E4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "F#7#9",
+        "notes": ["A4", "E4", "A#3", "F#3"]
+      },
+      "G": {
+        "name": "G7(13)",
+        "notes": ["E4", "B3", "F3", "G2"]
+      },
+      "Gs": {
+        "name": "G#7(13)",
+        "notes": ["F4", "C4", "F#3", "G#2"]
+      },
+      "A": {
+        "name": "Am7(11)",
+        "notes": ["D4", "C4", "G3", "A2"]
+      },
+      "As": {
+        "name": "A#9",
+        "notes": ["D4", "C4", "G#3", "A#2"]
+      },
+      "B": {
+        "name": "Bm7(11)",
+        "notes": ["E4", "D4", "A3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 4,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "Dsus2/C",
+        "notes": ["D4", "A3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "C#7#9",
+        "notes": ["D#4", "B3", "F3", "C#3"]
+      },
+      "D": {
+        "name": "Dm9",
+        "notes": ["E4", "C4", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "D#9",
+        "notes": ["F4", "C#4", "G3", "D#3"]
+      },
+      "E": {
+        "name": "Em9",
+        "notes": ["F#4", "D4", "G3", "E3"]
+      },
+      "F": {
+        "name": "Fm9",
+        "notes": ["G4", "D#4", "G#3", "F2"]
+      },
+      "Fs": {
+        "name": "F#m7b5",
+        "notes": ["E4", "C4", "A3", "F#2"]
+      },
+      "G": {
+        "name": "Gaug7",
+        "notes": ["D#4", "B3", "F3", "G2"]
+      },
+      "Gs": {
+        "name": "G#7(13)",
+        "notes": ["F4", "C4", "F#3", "G#2"]
+      },
+      "A": {
+        "name": "Aaug7",
+        "notes": ["F4", "C#4", "G3", "A2"]
+      },
+      "As": {
+        "name": "A#7(13)",
+        "notes": ["G4", "D4", "G#3", "A#2"]
+      },
+      "B": {
+        "name": "Bm7(11)",
+        "notes": ["E4", "D4", "A3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 5,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "CM9",
+        "notes": ["D4", "B3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "C#M7",
+        "notes": ["D#4", "C4", "F3", "C#3"]
+      },
+      "D": {
+        "name": "DM9",
+        "notes": ["E4", "C#4", "F#3", "D3"]
+      },
+      "Ds": {
+        "name": "D#M9",
+        "notes": ["F4", "D4", "G3", "D#3"]
+      },
+      "E": {
+        "name": "EM9",
+        "notes": ["F#4", "D#4", "G#3", "E3"]
+      },
+      "F": {
+        "name": "FM9",
+        "notes": ["G4", "E4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "F#M9",
+        "notes": ["G#4", "F4", "A#3", "F#3"]
+      },
+      "G": {
+        "name": "GM9",
+        "notes": ["A4", "F#4", "B3", "G3"]
+      },
+      "Gs": {
+        "name": "G#M9",
+        "notes": ["A#4", "G4", "C4", "G#3"]
+      },
+      "A": {
+        "name": "AM9",
+        "notes": ["B4", "G#4", "C#4", "A3"]
+      },
+      "As": {
+        "name": "A#M9",
+        "notes": ["C5", "A4", "D4", "A#3"]
+      },
+      "B": {
+        "name": "BM9",
+        "notes": ["C#5", "A#4", "D#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 6,
+    "name": "Blues",
+    "chords": {
+      "C": {
+        "name": "C9",
+        "notes": ["E4", "D4", "A#3", "C3"]
+      },
+      "Cs": {
+        "name": "C#9",
+        "notes": ["D#4", "B3", "F3", "C#3"]
+      },
+      "D": {
+        "name": "D9",
+        "notes": ["E4", "C4", "F#3", "D3"]
+      },
+      "Ds": {
+        "name": "D#9",
+        "notes": ["F4", "C#4", "G3", "D#3"]
+      },
+      "E": {
+        "name": "E7#9",
+        "notes": ["G4", "D4", "G#3", "E3"]
+      },
+      "F": {
+        "name": "Fm9",
+        "notes": ["G4", "D#4", "A3", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["D#4", "C4", "A3", "F#2"]
+      },
+      "G": {
+        "name": "G7(13)",
+        "notes": ["E4", "B3", "F3", "G2"]
+      },
+      "Gs": {
+        "name": "G#dim7",
+        "notes": ["F4", "D4", "B3", "G#2"]
+      },
+      "A": {
+        "name": "Aaug7",
+        "notes": ["F4", "C#4", "G3", "A2"]
+      },
+      "As": {
+        "name": "A#7(13)",
+        "notes": ["G4", "D4", "G#3", "A#2"]
+      },
+      "B": {
+        "name": "Bm7b5",
+        "notes": ["F4", "D4", "A3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 7,
+    "name": "Trad Maj",
+    "chords": {
+      "C": {
+        "name": "C",
+        "notes": ["C5", "G4", "E4", "C3"]
+      },
+      "Cs": {
+        "name": "C#dim7",
+        "notes": ["A#4", "G4", "E4", "C#3"]
+      },
+      "D": {
+        "name": "Dm",
+        "notes": ["A4", "F4", "D4", "D3"]
+      },
+      "Ds": {
+        "name": "D#dim7",
+        "notes": ["C5", "A4", "F#4", "D#3"]
+      },
+      "E": {
+        "name": "Em",
+        "notes": ["B4", "G4", "E4", "E3"]
+      },
+      "F": {
+        "name": "F",
+        "notes": ["C5", "A4", "F4", "F3"]
+      },
+      "Fs": {
+        "name": "F#m7b5",
+        "notes": ["C5", "A4", "E4", "F#3"]
+      },
+      "G": {
+        "name": "G",
+        "notes": ["B4", "G4", "D4", "G3"]
+      },
+      "Gs": {
+        "name": "G#dim7",
+        "notes": ["B4", "F4", "D4", "G#3"]
+      },
+      "A": {
+        "name": "Am",
+        "notes": ["C5", "A4", "E4", "A2"]
+      },
+      "As": {
+        "name": "A#",
+        "notes": ["A#4", "F4", "D4", "A#2"]
+      },
+      "B": {
+        "name": "Bdim",
+        "notes": ["B4", "F4", "D4", "B2"]
+      }
+    }
+  },
+  {
+    "set": 8,
+    "name": "Trad Min",
+    "chords": {
+      "C": {
+        "name": "Cm",
+        "notes": ["C5", "G4", "D#4", "C3"]
+      },
+      "Cs": {
+        "name": "C#",
+        "notes": ["G#4", "F4", "C#4", "C#3"]
+      },
+      "D": {
+        "name": "Ddim",
+        "notes": ["G#4", "F4", "D4", "D3"]
+      },
+      "Ds": {
+        "name": "Eb",
+        "notes": ["A#4", "G4", "D#4", "D#3"]
+      },
+      "E": {
+        "name": "Edim7",
+        "notes": ["A#4", "G4", "C#4", "E3"]
+      },
+      "F": {
+        "name": "Fm",
+        "notes": ["G#4", "F4", "C4", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["A4", "D#4", "C4", "F#2"]
+      },
+      "G": {
+        "name": "Gm",
+        "notes": ["G4", "D4", "A#3", "G2"]
+      },
+      "Gs": {
+        "name": "G#",
+        "notes": ["G#4", "D#4", "C4", "G#2"]
+      },
+      "A": {
+        "name": "Am7b5",
+        "notes": ["G4", "D#4", "C4", "A2"]
+      },
+      "As": {
+        "name": "A#",
+        "notes": ["A#4", "F4", "D4", "A#2"]
+      },
+      "B": {
+        "name": "Bdim7",
+        "notes": ["G#4", "F4", "D4", "B2"]
+      }
+    }
+  },
+  {
+    "set": 9,
+    "name": "Trad Min 2",
+    "chords": {
+      "C": {
+        "name": "Cm",
+        "notes": ["C5", "G4", "D#4", "C3"]
+      },
+      "Cs": {
+        "name": "C#",
+        "notes": ["G#4", "F4", "C#4", "C#3"]
+      },
+      "D": {
+        "name": "Ddim",
+        "notes": ["G#4", "F4", "D4", "D3"]
+      },
+      "Ds": {
+        "name": "D#aug",
+        "notes": ["B4", "G4", "D#4", "D#3"]
+      },
+      "E": {
+        "name": "Em",
+        "notes": ["B4", "G4", "E4", "E3"]
+      },
+      "F": {
+        "name": "Fm",
+        "notes": ["G#4", "F4", "C4", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["A4", "D#4", "C4", "F#2"]
+      },
+      "G": {
+        "name": "G",
+        "notes": ["G4", "D4", "B3", "G2"]
+      },
+      "Gs": {
+        "name": "G#",
+        "notes": ["C4", "D#4", "G#4", "G#2"]
+      },
+      "A": {
+        "name": "Am7b5",
+        "notes": ["G4", "D#4", "C4", "A2"]
+      },
+      "As": {
+        "name": "A#",
+        "notes": ["A#4", "F4", "D4", "A#2"]
+      },
+      "B": {
+        "name": "Bdim",
+        "notes": ["B4", "F4", "D4", "B2"]
+      }
+    }
+  },
+  {
+    "set": 10,
+    "name": "Pop Min",
+    "chords": {
+      "C": {
+        "name": "Cmadd9",
+        "notes": ["G4", "D#4", "D4", "C3"]
+      },
+      "Cs": {
+        "name": "C#M7",
+        "notes": ["F4", "C4", "G#3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7b5",
+        "notes": ["G#4", "F4", "C4", "D3"]
+      },
+      "Ds": {
+        "name": "D#M7",
+        "notes": ["G4", "D4", "A#3", "D#3"]
+      },
+      "E": {
+        "name": "Edim7",
+        "notes": ["G4", "C#4", "A#3", "E3"]
+      },
+      "F": {
+        "name": "Fm9",
+        "notes": ["G4", "D#4", "G#3", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["D#4", "C4", "A3", "F#2"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["F4", "D4", "A#3", "G2"]
+      },
+      "Gs": {
+        "name": "G#M7",
+        "notes": ["G4", "D#4", "C4", "G#2"]
+      },
+      "A": {
+        "name": "Am7b5",
+        "notes": ["G4", "D#4", "C4", "A2"]
+      },
+      "As": {
+        "name": "G#/A#",
+        "notes": ["D#4", "C4", "G#3", "A#2"]
+      },
+      "B": {
+        "name": "Bdim7",
+        "notes": ["F4", "D4", "G#3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 11,
+    "name": "Pop Min",
+    "chords": {
+      "C": {
+        "name": "Cmadd9",
+        "notes": ["G4", "D#4", "D4", "C3"]
+      },
+      "Cs": {
+        "name": "Gdim/C#",
+        "notes": ["G4", "D#4", "A#3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7b5",
+        "notes": ["F4", "C4", "G#3", "D3"]
+      },
+      "Ds": {
+        "name": "D#M7",
+        "notes": ["G4", "D4", "A#3", "D#3"]
+      },
+      "E": {
+        "name": "EM9",
+        "notes": ["F#4", "D#4", "G#3", "E3"]
+      },
+      "F": {
+        "name": "Fm9",
+        "notes": ["G4", "D#4", "G#3", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["D#4", "C4", "A3", "F#2"]
+      },
+      "G": {
+        "name": "Gaug7",
+        "notes": ["D#4", "B3", "F3", "G2"]
+      },
+      "Gs": {
+        "name": "G#M7",
+        "notes": ["G4", "D#4", "C4", "G#2"]
+      },
+      "A": {
+        "name": "Am7b5",
+        "notes": ["G4", "D#4", "C4", "A2"]
+      },
+      "As": {
+        "name": "Cm7/A#",
+        "notes": ["G4", "D#4", "C4", "A#2"]
+      },
+      "B": {
+        "name": "Baug#9",
+        "notes": ["G4", "D#4", "D4", "B2"]
+      }
+    }
+  },
+  {
+    "set": 12,
+    "name": "Jazz Min",
+    "chords": {
+      "C": {
+        "name": "Cm7(11)",
+        "notes": ["F4", "D#4", "A#3", "C3"]
+      },
+      "Cs": {
+        "name": "C#7#9",
+        "notes": ["E4", "B3", "F3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7b5",
+        "notes": ["G#4", "F4", "C4", "D3"]
+      },
+      "Ds": {
+        "name": "D#M7#5",
+        "notes": ["G4", "D4", "B3", "D#3"]
+      },
+      "E": {
+        "name": "E9",
+        "notes": ["F#4", "D4", "G#3", "E2"]
+      },
+      "F": {
+        "name": "F9",
+        "notes": ["G4", "D#4", "A3", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["D#4", "C4", "A3", "F#2"]
+      },
+      "G": {
+        "name": "G7#9",
+        "notes": ["A#4", "F4", "B3", "G2"]
+      },
+      "Gs": {
+        "name": "G#M7b5",
+        "notes": ["G4", "D4", "C4", "G#2"]
+      },
+      "A": {
+        "name": "Am7b5",
+        "notes": ["G4", "D#4", "C4", "A2"]
+      },
+      "As": {
+        "name": "A#m7",
+        "notes": ["F4", "C#4", "G#3", "A#2"]
+      },
+      "B": {
+        "name": "Bdim7",
+        "notes": ["F4", "D4", "G#3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 13,
+    "name": "Jazz Min",
+    "chords": {
+      "C": {
+        "name": "Cm9",
+        "notes": ["D4", "A#3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "C#9",
+        "notes": ["D#4", "B3", "F3", "C#3"]
+      },
+      "D": {
+        "name": "Dm9",
+        "notes": ["E4", "C4", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "D#9",
+        "notes": ["F4", "C#4", "G3", "D#3"]
+      },
+      "E": {
+        "name": "EM9",
+        "notes": ["F#4", "D#4", "G#3", "E2"]
+      },
+      "F": {
+        "name": "Fm9",
+        "notes": ["G4", "D#4", "G#3", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["D#4", "C4", "A3", "F#2"]
+      },
+      "G": {
+        "name": "G7(13)",
+        "notes": ["E4", "B3", "F3", "G2"]
+      },
+      "Gs": {
+        "name": "G#m6",
+        "notes": ["F4", "D#4", "B3", "G#2"]
+      },
+      "A": {
+        "name": "Am7b5",
+        "notes": ["G4", "D#4", "C4", "A2"]
+      },
+      "As": {
+        "name": "A#m7",
+        "notes": ["F4", "C#4", "G#3", "A#2"]
+      },
+      "B": {
+        "name": "Bm7b5",
+        "notes": ["F4", "D4", "A3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 14,
+    "name": "Oct Stack",
+    "chords": {
+      "C": {
+        "name": "",
+        "notes": ["C5", "C4"]
+      },
+      "Cs": {
+        "name": "",
+        "notes": ["C#5", "C#4"]
+      },
+      "D": {
+        "name": "",
+        "notes": ["D5", "D4"]
+      },
+      "Ds": {
+        "name": "",
+        "notes": ["D#5", "D#4"]
+      },
+      "E": {
+        "name": "",
+        "notes": ["E5", "E4"]
+      },
+      "F": {
+        "name": "",
+        "notes": ["F5", "F4"]
+      },
+      "Fs": {
+        "name": "",
+        "notes": ["F#5", "F#4"]
+      },
+      "G": {
+        "name": "",
+        "notes": ["G5", "G4"]
+      },
+      "Gs": {
+        "name": "",
+        "notes": ["G#5", "G#4"]
+      },
+      "A": {
+        "name": "",
+        "notes": ["A5", "A4"]
+      },
+      "As": {
+        "name": "",
+        "notes": ["A#5", "A#4"]
+      },
+      "B": {
+        "name": "",
+        "notes": ["B5", "B4"]
+      }
+    }
+  },
+  {
+    "set": 15,
+    "name": "4th Stack",
+    "chords": {
+      "C": {
+        "name": "",
+        "notes": ["F4", "C4"]
+      },
+      "Cs": {
+        "name": "",
+        "notes": ["F#4", "C#4"]
+      },
+      "D": {
+        "name": "",
+        "notes": ["G4", "D4"]
+      },
+      "Ds": {
+        "name": "",
+        "notes": ["G#4", "D#4"]
+      },
+      "E": {
+        "name": "",
+        "notes": ["A4", "E4"]
+      },
+      "F": {
+        "name": "",
+        "notes": ["A#4", "F4"]
+      },
+      "Fs": {
+        "name": "",
+        "notes": ["B4", "F#4"]
+      },
+      "G": {
+        "name": "",
+        "notes": ["C5", "G4"]
+      },
+      "Gs": {
+        "name": "",
+        "notes": ["C#5", "G#4"]
+      },
+      "A": {
+        "name": "",
+        "notes": ["D5", "A4"]
+      },
+      "As": {
+        "name": "",
+        "notes": ["D#5", "A#4"]
+      },
+      "B": {
+        "name": "",
+        "notes": ["E5", "B4"]
+      }
+    }
+  },
+  {
+    "set": 16,
+    "name": "5th Stack",
+    "chords": {
+      "C": {
+        "name": "",
+        "notes": ["G4", "C4"]
+      },
+      "Cs": {
+        "name": "",
+        "notes": ["G#4", "C#4"]
+      },
+      "D": {
+        "name": "",
+        "notes": ["A4", "D4"]
+      },
+      "Ds": {
+        "name": "",
+        "notes": ["A#4", "D#4"]
+      },
+      "E": {
+        "name": "",
+        "notes": ["B4", "E4"]
+      },
+      "F": {
+        "name": "",
+        "notes": ["C5", "F4"]
+      },
+      "Fs": {
+        "name": "",
+        "notes": ["C#5", "F#4"]
+      },
+      "G": {
+        "name": "",
+        "notes": ["D5", "G4"]
+      },
+      "Gs": {
+        "name": "",
+        "notes": ["D#5", "G#4"]
+      },
+      "A": {
+        "name": "",
+        "notes": ["E5", "A4"]
+      },
+      "As": {
+        "name": "",
+        "notes": ["F5", "A#4"]
+      },
+      "B": {
+        "name": "",
+        "notes": ["F#5", "B4"]
+      }
+    }
+  },
+  {
+    "set": 17,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "C",
+        "notes": ["G3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "C#",
+        "notes": ["G#3", "F3", "C#3"]
+      },
+      "D": {
+        "name": "D",
+        "notes": ["A3", "F#3", "D3"]
+      },
+      "Ds": {
+        "name": "D#",
+        "notes": ["A#3", "G3", "D#3"]
+      },
+      "E": {
+        "name": "E",
+        "notes": ["B3", "G#3", "E3"]
+      },
+      "F": {
+        "name": "F",
+        "notes": ["C4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "F#",
+        "notes": ["C#4", "A#3", "F#3"]
+      },
+      "G": {
+        "name": "G",
+        "notes": ["D4", "B3", "G3"]
+      },
+      "Gs": {
+        "name": "G#",
+        "notes": ["D#4", "C4", "G#3"]
+      },
+      "A": {
+        "name": "A",
+        "notes": ["E4", "C#4", "A3"]
+      },
+      "As": {
+        "name": "A#",
+        "notes": ["F4", "D4", "A#3"]
+      },
+      "B": {
+        "name": "B",
+        "notes": ["F#4", "D#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 18,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "Cm",
+        "notes": ["G3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "C#m",
+        "notes": ["G#3", "E3", "C#3"]
+      },
+      "D": {
+        "name": "Dm",
+        "notes": ["A3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "D#m",
+        "notes": ["A#3", "F#3", "D#3"]
+      },
+      "E": {
+        "name": "E",
+        "notes": ["B3", "G3", "E3"]
+      },
+      "F": {
+        "name": "Fm",
+        "notes": ["C4", "G#3", "F3"]
+      },
+      "Fs": {
+        "name": "F#m",
+        "notes": ["C#4", "A3", "F#3"]
+      },
+      "G": {
+        "name": "Gm",
+        "notes": ["D4", "A#3", "G3"]
+      },
+      "Gs": {
+        "name": "G#m",
+        "notes": ["D#4", "B3", "G#3"]
+      },
+      "A": {
+        "name": "Am",
+        "notes": ["E4", "C4", "A3"]
+      },
+      "As": {
+        "name": "A#m",
+        "notes": ["F4", "C#4", "A#3"]
+      },
+      "B": {
+        "name": "Bm",
+        "notes": ["F#4", "D4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 19,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["B3", "G3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "C#M7",
+        "notes": ["C4", "G#3", "F3", "C#3"]
+      },
+      "D": {
+        "name": "DM7",
+        "notes": ["C#4", "A3", "F#3", "D3"]
+      },
+      "Ds": {
+        "name": "D#M7",
+        "notes": ["D4", "A#3", "G3", "D#3"]
+      },
+      "E": {
+        "name": "EM7",
+        "notes": ["D#4", "B3", "G#3", "E3"]
+      },
+      "F": {
+        "name": "FM7",
+        "notes": ["E4", "C4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "F#FM7",
+        "notes": ["F4", "C#4", "A#3", "F#3"]
+      },
+      "G": {
+        "name": "GM7",
+        "notes": ["F#4", "D4", "B3", "G3"]
+      },
+      "Gs": {
+        "name": "G#M7",
+        "notes": ["G4", "D#4", "C4", "G#3"]
+      },
+      "A": {
+        "name": "AM7",
+        "notes": ["G#4", "E4", "C#4", "A3"]
+      },
+      "As": {
+        "name": "A#M7",
+        "notes": ["A4", "F4", "D4", "A#3"]
+      },
+      "B": {
+        "name": "BM7",
+        "notes": ["A#4", "F#4", "D#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 20,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["A#3", "G3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "C#m7",
+        "notes": ["B3", "G#3", "E3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C4", "A3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "D#m7",
+        "notes": ["C#4", "A#3", "F#3", "D#3"]
+      },
+      "E": {
+        "name": "Em7",
+        "notes": ["D4", "B3", "G3", "E3"]
+      },
+      "F": {
+        "name": "Fm7",
+        "notes": ["D#4", "C4", "G#3", "F3"]
+      },
+      "Fs": {
+        "name": "F#m7",
+        "notes": ["E4", "C#4", "A3", "F#3"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["F4", "D4", "A#3", "G3"]
+      },
+      "Gs": {
+        "name": "G#m7",
+        "notes": ["F#4", "D#4", "B3", "G#3"]
+      },
+      "A": {
+        "name": "Am7",
+        "notes": ["G4", "E4", "C4", "A3"]
+      },
+      "As": {
+        "name": "A#m7",
+        "notes": ["G#4", "F4", "C#4", "A#3"]
+      },
+      "B": {
+        "name": "Bm7",
+        "notes": ["A4", "F#4", "D4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 21,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "CM9",
+        "notes": ["D4", "B3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "C#M9",
+        "notes": ["D#4", "C4", "F3", "C#3"]
+      },
+      "D": {
+        "name": "DM9",
+        "notes": ["E4", "C#4", "F#3", "D3"]
+      },
+      "Ds": {
+        "name": "D#M9",
+        "notes": ["F4", "D4", "G3", "D#3"]
+      },
+      "E": {
+        "name": "EM9",
+        "notes": ["F#4", "D#4", "G#3", "E3"]
+      },
+      "F": {
+        "name": "FM9",
+        "notes": ["G4", "E4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "F#M9",
+        "notes": ["G#4", "F4", "A#3", "F#3"]
+      },
+      "G": {
+        "name": "GM9",
+        "notes": ["A4", "F#4", "B3", "G3"]
+      },
+      "Gs": {
+        "name": "G#M9",
+        "notes": ["A#4", "G4", "C4", "G#3"]
+      },
+      "A": {
+        "name": "AM9",
+        "notes": ["B4", "G#4", "C#4", "A3"]
+      },
+      "As": {
+        "name": "A#M9",
+        "notes": ["C5", "A4", "D4", "A#3"]
+      },
+      "B": {
+        "name": "BM9",
+        "notes": ["C#5", "A#4", "D#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 22,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "Cm9",
+        "notes": ["D4", "A#3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "C#m9",
+        "notes": ["D#4", "B3", "E3", "C#3"]
+      },
+      "D": {
+        "name": "Dm9",
+        "notes": ["E4", "C4", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "D#m9",
+        "notes": ["F4", "C#4", "F#3", "D#3"]
+      },
+      "E": {
+        "name": "Em9",
+        "notes": ["F#4", "D4", "G3", "E3"]
+      },
+      "F": {
+        "name": "Fm9",
+        "notes": ["G4", "D#4", "G#3", "F3"]
+      },
+      "Fs": {
+        "name": "F#m9",
+        "notes": ["G#4", "E4", "A3", "F#3"]
+      },
+      "G": {
+        "name": "Gm9",
+        "notes": ["A4", "F4", "A#3", "G3"]
+      },
+      "Gs": {
+        "name": "G#m9",
+        "notes": ["A#4", "F#4", "B3", "G#3"]
+      },
+      "A": {
+        "name": "Am9",
+        "notes": ["B4", "G4", "C4", "A3"]
+      },
+      "As": {
+        "name": "A#m9",
+        "notes": ["C5", "G#4", "C#4", "A#3"]
+      },
+      "B": {
+        "name": "Bm9",
+        "notes": ["C#5", "A4", "D4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 23,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "CM9/#11",
+        "notes": ["F#4", "D4", "B3", "C3"]
+      },
+      "Cs": {
+        "name": "C#M9/#11",
+        "notes": ["G4", "D#4", "C4", "C#3"]
+      },
+      "D": {
+        "name": "DM9/#11",
+        "notes": ["G#4", "E4", "C#4", "D3"]
+      },
+      "Ds": {
+        "name": "D#M9/#11",
+        "notes": ["A4", "F4", "D4", "D#3"]
+      },
+      "E": {
+        "name": "EM9/#11",
+        "notes": ["A#4", "F#4", "D#4", "E3"]
+      },
+      "F": {
+        "name": "FM9/#11",
+        "notes": ["B4", "G4", "E4", "F3"]
+      },
+      "Fs": {
+        "name": "F#M9/#11",
+        "notes": ["C5", "G#4", "F4", "F#3"]
+      },
+      "G": {
+        "name": "GM9/#11",
+        "notes": ["C#5", "A4", "F#4", "G3"]
+      },
+      "Gs": {
+        "name": "G#M9/#11",
+        "notes": ["D5", "A#4", "G4", "G#3"]
+      },
+      "A": {
+        "name": "AM9/#11",
+        "notes": ["D#5", "B4", "G#4", "A3"]
+      },
+      "As": {
+        "name": "A#M9/#11",
+        "notes": ["E5", "C5", "A4", "A#3"]
+      },
+      "B": {
+        "name": "BM9/#11",
+        "notes": ["F5", "C#5", "A#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 24,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "Cm9/11",
+        "notes": ["F4", "D4", "A#3", "C3"]
+      },
+      "Cs": {
+        "name": "C#m9/11",
+        "notes": ["F#4", "D#4", "B3", "C#3"]
+      },
+      "D": {
+        "name": "Dm9/11",
+        "notes": ["G4", "E4", "C4", "D3"]
+      },
+      "Ds": {
+        "name": "D#m9/11",
+        "notes": ["G#4", "F4", "C#4", "D#3"]
+      },
+      "E": {
+        "name": "Em9/11",
+        "notes": ["A4", "F#4", "D4", "E3"]
+      },
+      "F": {
+        "name": "Fm9/11",
+        "notes": ["A#4", "G4", "D#4", "F3"]
+      },
+      "Fs": {
+        "name": "F#m9/11",
+        "notes": ["B4", "G#4", "E4", "F#3"]
+      },
+      "G": {
+        "name": "Gm9/11",
+        "notes": ["C5", "A4", "F4", "G3"]
+      },
+      "Gs": {
+        "name": "G#m9/11",
+        "notes": ["C#5", "A#4", "F#4", "G#3"]
+      },
+      "A": {
+        "name": "Am9/11",
+        "notes": ["D5", "B4", "G4", "A3"]
+      },
+      "As": {
+        "name": "A#m9/11",
+        "notes": ["D#5", "C5", "G#4", "A#3"]
+      },
+      "B": {
+        "name": "Bm9/11",
+        "notes": ["E5", "C#5", "A4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 25,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["B3", "G3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "CM7",
+        "notes": ["C4", "B3", "G3", "E3"]
+      },
+      "D": {
+        "name": "CM7",
+        "notes": ["E4", "C4", "B3", "G3"]
+      },
+      "Ds": {
+        "name": "CM7",
+        "notes": ["G4", "E4", "C4", "B3"]
+      },
+      "E": {
+        "name": "CM7",
+        "notes": ["B4", "G4", "E4", "C4"]
+      },
+      "F": {
+        "name": "CM7",
+        "notes": ["C5", "B4", "G4", "E4"]
+      },
+      "Fs": {
+        "name": "CM7",
+        "notes": ["B4", "E4", "G3", "C3"]
+      },
+      "G": {
+        "name": "CM7",
+        "notes": ["C5", "B4", "E4", "G3"]
+      },
+      "Gs": {
+        "name": "CM7",
+        "notes": ["E5", "B4", "G4", "C4"]
+      },
+      "A": {
+        "name": "CM7",
+        "notes": ["G5", "C5", "B4", "E4"]
+      },
+      "As": {
+        "name": "CM7",
+        "notes": ["B5", "E5", "C5", "G4"]
+      },
+      "B": {
+        "name": "CM7",
+        "notes": ["C6", "G5", "E5", "B4"]
+      }
+    }
+  },
+  {
+    "set": 26,
+    "name": "Utility",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["A#3", "G3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "Cm7/D#",
+        "notes": ["C4", "A#3", "G3", "D#3"]
+      },
+      "D": {
+        "name": "Cm7/G",
+        "notes": ["D#4", "C4", "A#3", "G3"]
+      },
+      "Ds": {
+        "name": "Cm7/A#",
+        "notes": ["G4", "D#4", "C4", "A#3"]
+      },
+      "E": {
+        "name": "Cm7",
+        "notes": ["A#4", "G4", "D#4", "C4"]
+      },
+      "F": {
+        "name": "Cm7/D#",
+        "notes": ["C5", "A#4", "G4", "D#4"]
+      },
+      "Fs": {
+        "name": "Cm7",
+        "notes": ["A#4", "D#4", "G3", "C3"]
+      },
+      "G": {
+        "name": "Cm7/G",
+        "notes": ["C5", "A#4", "D#4", "G3"]
+      },
+      "Gs": {
+        "name": "Cm7",
+        "notes": ["D#5", "A#4", "G4", "C4"]
+      },
+      "A": {
+        "name": "Cm7/D#",
+        "notes": ["G5", "C5", "A#4", "D#4"]
+      },
+      "As": {
+        "name": "Cm7/G",
+        "notes": ["A#5", "D#5", "C5", "G4"]
+      },
+      "B": {
+        "name": "Cm7/A#",
+        "notes": ["C6", "G5", "D#5", "A#4"]
+      }
+    }
+  },
+  {
+    "set": 27,
+    "name": "Pop/Synth",
+    "chords": {
+      "C": {
+        "name": "C",
+        "notes": ["E4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "Em",
+        "notes": ["G4", "B3", "E3"]
+      },
+      "D": {
+        "name": "G",
+        "notes": ["B4", "D4", "G3"]
+      },
+      "Ds": {
+        "name": "Am",
+        "notes": ["C5", "E4", "A3"]
+      },
+      "E": {
+        "name": "Bm",
+        "notes": ["D5", "F#4", "B3"]
+      },
+      "F": {
+        "name": "C",
+        "notes": ["E5", "G4", "C4"]
+      },
+      "Fs": {
+        "name": "Em",
+        "notes": ["G5", "B4", "E4"]
+      },
+      "G": {
+        "name": "G",
+        "notes": ["B5", "D5", "G4"]
+      },
+      "Gs": {
+        "name": "Am",
+        "notes": ["C6", "E5", "A4"]
+      },
+      "A": {
+        "name": "Bm",
+        "notes": ["D6", "F#5", "B4"]
+      },
+      "As": {
+        "name": "C",
+        "notes": ["E6", "G5", "C5"]
+      },
+      "B": {
+        "name": "Em",
+        "notes": ["D7", "B5", "E5"]
+      }
+    }
+  },
+  {
+    "set": 28,
+    "name": "Pop",
+    "chords": {
+      "C": {
+        "name": "C",
+        "notes": ["C4", "G3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "C7",
+        "notes": ["A#3", "G3", "E3", "C3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C4", "A3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "D#M7",
+        "notes": ["A#3", "G3", "D3", "D#2"]
+      },
+      "E": {
+        "name": "C/E",
+        "notes": ["C4", "G3", "E3", "E2"]
+      },
+      "F": {
+        "name": "F",
+        "notes": ["C4", "A3", "F3", "F2"]
+      },
+      "Fs": {
+        "name": "Fm",
+        "notes": ["C4", "G#3", "F3", "F2"]
+      },
+      "G": {
+        "name": "G",
+        "notes": ["B3", "G3", "D3", "G2"]
+      },
+      "Gs": {
+        "name": "C/G",
+        "notes": ["C4", "G3", "E3", "G2"]
+      },
+      "A": {
+        "name": "Am7",
+        "notes": ["C4", "G3", "E3", "A2"]
+      },
+      "As": {
+        "name": "Eaug/A#",
+        "notes": ["C4", "G#3", "E3", "A#2"]
+      },
+      "B": {
+        "name": "G7/B",
+        "notes": ["B3", "G3", "F3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 29,
+    "name": "Pop",
+    "chords": {
+      "C": {
+        "name": "C",
+        "notes": ["E4", "C4", "C3", "C2"]
+      },
+      "Cs": {
+        "name": "FM7",
+        "notes": ["E4", "C4", "F2", "F1"]
+      },
+      "D": {
+        "name": "G",
+        "notes": ["D4", "B3", "G2", "G1"]
+      },
+      "Ds": {
+        "name": "Em7",
+        "notes": ["D4", "G3", "B2", "E2"]
+      },
+      "E": {
+        "name": "Dm7",
+        "notes": ["C4", "F3", "A2", "D2"]
+      },
+      "F": {
+        "name": "CM7/E",
+        "notes": ["C4", "G3", "B2", "E2"]
+      },
+      "Fs": {
+        "name": "F",
+        "notes": ["C4", "A3", "C3", "F2"]
+      },
+      "G": {
+        "name": "D7/G",
+        "notes": ["D4", "A3", "C3", "G2"]
+      },
+      "Gs": {
+        "name": "G",
+        "notes": ["D4", "B3", "D3", "G2"]
+      },
+      "A": {
+        "name": "Am",
+        "notes": ["E4", "C4", "E3", "A2"]
+      },
+      "As": {
+        "name": "Dm",
+        "notes": ["F4", "A3", "A2", "D2"]
+      },
+      "B": {
+        "name": "G7",
+        "notes": ["G4", "B3", "F3", "G2"]
+      }
+    }
+  },
+  {
+    "set": 30,
+    "name": "Pop",
+    "chords": {
+      "C": {
+        "name": "Cm",
+        "notes": ["D#4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "D#",
+        "notes": ["G4", "A#3", "D#3"]
+      },
+      "D": {
+        "name": "G#",
+        "notes": ["C4", "D#3", "G#2"]
+      },
+      "Ds": {
+        "name": "A#",
+        "notes": ["D4", "F3", "A#2"]
+      },
+      "E": {
+        "name": "Gm",
+        "notes": ["G4", "D4", "A#3", "G3"]
+      },
+      "F": {
+        "name": "G#",
+        "notes": ["G#4", "D#4", "C4", "G#3"]
+      },
+      "Fs": {
+        "name": "D#",
+        "notes": ["G4", "D#4", "A#3", "D#3"]
+      },
+      "G": {
+        "name": "A#sus4/D",
+        "notes": ["F4", "D#4", "A#3", "D3"]
+      },
+      "Gs": {
+        "name": "Cm",
+        "notes": ["D#4", "C4", "G3", "C3"]
+      },
+      "A": {
+        "name": "G/B",
+        "notes": ["D4", "B3", "G3", "B2"]
+      },
+      "As": {
+        "name": "G#",
+        "notes": ["C4", "G#3", "D#3", "G#2"]
+      },
+      "B": {
+        "name": "F/A",
+        "notes": ["C4", "A3", "F3", "A2"]
+      }
+    }
+  },
+  {
+    "set": 31,
+    "name": "Pop",
+    "chords": {
+      "C": {
+        "name": "Cadd11",
+        "notes": ["C5", "F4", "E4", "C3"]
+      },
+      "Cs": {
+        "name": "Bb/C",
+        "notes": ["F4", "D4", "A#3", "C3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["F4", "C4", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "D7",
+        "notes": ["F#4", "C4", "A3", "D3"]
+      },
+      "E": {
+        "name": "Cadd9/E",
+        "notes": ["G4", "D4", "C4", "E3"]
+      },
+      "F": {
+        "name": "FM7",
+        "notes": ["A4", "E4", "C4", "F3"]
+      },
+      "Fs": {
+        "name": "F7",
+        "notes": ["A4", "D#4", "C4", "F3"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["A#4", "F4", "D4", "G3"]
+      },
+      "Gs": {
+        "name": "A/G",
+        "notes": ["A4", "E4", "C#4", "G3"]
+      },
+      "A": {
+        "name": "FM7/A",
+        "notes": ["C5", "F4", "E4", "A3"]
+      },
+      "As": {
+        "name": "F/Bb",
+        "notes": ["A4", "F4", "C4", "A#3"]
+      },
+      "B": {
+        "name": "G7/B",
+        "notes": ["G4", "F4", "D4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 32,
+    "name": "Pop",
+    "chords": {
+      "C": {
+        "name": "Cmb13",
+        "notes": ["D#4", "G#3", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "D#M7",
+        "notes": ["G4", "D4", "A#3", "D#3"]
+      },
+      "D": {
+        "name": "G7/D",
+        "notes": ["F4", "B3", "G3", "D3"]
+      },
+      "Ds": {
+        "name": "A#/D#",
+        "notes": ["F4", "D4", "A#3", "D#3"]
+      },
+      "E": {
+        "name": "C7",
+        "notes": ["E4", "A#3", "G3", "C3"]
+      },
+      "F": {
+        "name": "Fm7",
+        "notes": ["G#4", "D#4", "C4", "F3"]
+      },
+      "Fs": {
+        "name": "D#",
+        "notes": ["G4", "D#4", "A#3", "D#3"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["F4", "D4", "A#3", "G3"]
+      },
+      "Gs": {
+        "name": "G#M9",
+        "notes": ["G4", "C4", "A#3", "G#3"]
+      },
+      "A": {
+        "name": "G#m6",
+        "notes": ["F4", "D#3", "B3", "G#3"]
+      },
+      "As": {
+        "name": "F7/A",
+        "notes": ["F4", "D#4", "C3", "A3"]
+      },
+      "B": {
+        "name": "A#add11",
+        "notes": ["A#4", "D#4", "D4", "A#3"]
+      }
+    }
+  },
+  {
+    "set": 33,
+    "name": "Cinematic",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["B3", "G3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "F/E",
+        "notes": ["C4", "A3", "F3", "E3"]
+      },
+      "D": {
+        "name": "A#M7",
+        "notes": ["D4", "A3", "F3", "A#2"]
+      },
+      "Ds": {
+        "name": "G",
+        "notes": ["D4", "B3", "G3", "G2"]
+      },
+      "E": {
+        "name": "Dm7",
+        "notes": ["F4", "C4", "F3", "D3"]
+      },
+      "F": {
+        "name": "C",
+        "notes": ["E4", "C4", "G3", "C3"]
+      },
+      "Fs": {
+        "name": "A#M7",
+        "notes": ["F4", "D4", "A3", "A#2"]
+      },
+      "G": {
+        "name": "G",
+        "notes": ["G4", "D4", "B3", "G2"]
+      },
+      "Gs": {
+        "name": "C",
+        "notes": ["E4", "C4", "G3", "C3"]
+      },
+      "A": {
+        "name": "A/C#",
+        "notes": ["E4", "C#4", "A3", "C#3"]
+      },
+      "As": {
+        "name": "Dm",
+        "notes": ["F4", "D4", "A3", "D3"]
+      },
+      "B": {
+        "name": "G/F",
+        "notes": ["G4", "D4", "B3", "F3"]
+      }
+    }
+  },
+  {
+    "set": 34,
+    "name": "Cinematic/Synthwave",
+    "chords": {
+      "C": {
+        "name": "Csus2",
+        "notes": ["D4", "G3", "D3", "C3"]
+      },
+      "Cs": {
+        "name": "Dsus2",
+        "notes": ["E4", "A3", "E3", "D3"]
+      },
+      "D": {
+        "name": "D#sus2",
+        "notes": ["F4", "A#3", "F3", "D#3"]
+      },
+      "Ds": {
+        "name": "Fsus2",
+        "notes": ["G4", "C4", "G3", "F3"]
+      },
+      "E": {
+        "name": "Gsus2",
+        "notes": ["A4", "D4", "A3", "G3"]
+      },
+      "F": {
+        "name": "A#sus2",
+        "notes": ["C5", "F4", "C4", "A#3"]
+      },
+      "Fs": {
+        "name": "Csus2",
+        "notes": ["D5", "G4", "D4", "C4"]
+      },
+      "G": {
+        "name": "Dsus2",
+        "notes": ["E5", "A4", "E4", "D4"]
+      },
+      "Gs": {
+        "name": "D#sus2",
+        "notes": ["F5", "A#4", "F4", "D#4"]
+      },
+      "A": {
+        "name": "Fsus2",
+        "notes": ["G5", "C5", "G4", "F4"]
+      },
+      "As": {
+        "name": "Gsus2",
+        "notes": ["A5", "D5", "A4", "G4"]
+      },
+      "B": {
+        "name": "A#sus2",
+        "notes": ["C6", "F5", "C5", "A#4"]
+      }
+    }
+  },
+  {
+    "set": 35,
+    "name": "Cinematic/House",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["B4", "E4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "Am7",
+        "notes": ["G4", "C4", "E3", "A2"]
+      },
+      "D": {
+        "name": "DM7",
+        "notes": ["C#5", "F#4", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "Bm7",
+        "notes": ["A4", "D4", "F#3", "B2"]
+      },
+      "E": {
+        "name": "EM7",
+        "notes": ["D#5", "G#4", "B3", "E3"]
+      },
+      "F": {
+        "name": "C#m7",
+        "notes": ["B4", "E4", "G#3", "C#3"]
+      },
+      "Fs": {
+        "name": "F#M7",
+        "notes": ["F5", "A#4", "C#4", "F#3"]
+      },
+      "G": {
+        "name": "D#m7",
+        "notes": ["C#5", "F#4", "A#3", "D#3"]
+      },
+      "Gs": {
+        "name": "G#M7",
+        "notes": ["G5", "C5", "D#4", "G#3"]
+      },
+      "A": {
+        "name": "Fm7",
+        "notes": ["D#5", "G#4", "C4", "F3"]
+      },
+      "As": {
+        "name": "A#M7",
+        "notes": ["A5", "D5", "F4", "A#3"]
+      },
+      "B": {
+        "name": "Gm7",
+        "notes": ["F5", "A#4", "D4", "G3"]
+      }
+    }
+  },
+  {
+    "set": 36,
+    "name": "Cinematic",
+    "chords": {
+      "C": {
+        "name": "Ebsus2/C",
+        "notes": ["Eb4", "Bb3", "F3", "C3"]
+      },
+      "Cs": {
+        "name": "Fsus2/D",
+        "notes": ["F4", "C4", "G3", "D3"]
+      },
+      "D": {
+        "name": "Gsus2/E",
+        "notes": ["G4", "D4", "A3", "E3"]
+      },
+      "Ds": {
+        "name": "Absus2/F",
+        "notes": ["Ab4", "Eb4", "Bb3", "F3"]
+      },
+      "E": {
+        "name": "Bbsus2/G",
+        "notes": ["Bb4", "F4", "C4", "G3"]
+      },
+      "F": {
+        "name": "Csus2/A",
+        "notes": ["C5", "G4", "D4", "A3"]
+      },
+      "Fs": {
+        "name": "Dsus2/B",
+        "notes": ["D5", "A4", "E4", "B3"]
+      },
+      "G": {
+        "name": "Ebsus2/C",
+        "notes": ["Eb5", "Bb4", "F4", "C4"]
+      },
+      "Gs": {
+        "name": "Fsus2/D",
+        "notes": ["F5", "C5", "G4", "D4"]
+      },
+      "A": {
+        "name": "Gsus2/E",
+        "notes": ["G5", "D5", "A4", "E4"]
+      },
+      "As": {
+        "name": "Absus2/F",
+        "notes": ["Ab5", "Eb5", "Bb4", "F4"]
+      },
+      "B": {
+        "name": "Bbsus2/G",
+        "notes": ["Bb5", "F5", "C5", "G4"]
+      }
+    }
+  },
+  {
+    "set": 37,
+    "name": "Cinematic",
+    "chords": {
+      "C": {
+        "name": "C6sus2",
+        "notes": ["A4", "D4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "Dsus2",
+        "notes": ["A4", "E4", "A3", "D3"]
+      },
+      "D": {
+        "name": "Emadd11",
+        "notes": ["A4", "G4", "B3", "E3"]
+      },
+      "Ds": {
+        "name": "Dadd9/F#",
+        "notes": ["A4", "E4", "D4", "F#3"]
+      },
+      "E": {
+        "name": "Gadd9",
+        "notes": ["B4", "A4", "D4", "G3"]
+      },
+      "F": {
+        "name": "Am7/11",
+        "notes": ["D5", "G4", "C4", "A3"]
+      },
+      "Fs": {
+        "name": "Bm7",
+        "notes": ["D5", "A4", "F#4", "B3"]
+      },
+      "G": {
+        "name": "C6",
+        "notes": ["E5", "A4", "G4", "C4"]
+      },
+      "Gs": {
+        "name": "D6",
+        "notes": ["F#5", "B4", "A4", "D4"]
+      },
+      "A": {
+        "name": "Emadd9",
+        "notes": ["F#5", "B4", "G4", "E4"]
+      },
+      "As": {
+        "name": "E7sus4",
+        "notes": ["A5", "D5", "B4", "E4"]
+      },
+      "B": {
+        "name": "Em7b5/F",
+        "notes": ["G5", "E5", "D5", "F4"]
+      }
+    }
+  },
+  {
+    "set": 38,
+    "name": "New Age/Cinematic",
+    "chords": {
+      "C": {
+        "name": "C",
+        "notes": ["E4", "C4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "Gsus4",
+        "notes": ["G4", "D4", "C4", "G3"]
+      },
+      "D": {
+        "name": "G7sus4",
+        "notes": ["F4", "D4", "C4", "G3"]
+      },
+      "Ds": {
+        "name": "A#/D#",
+        "notes": ["F4", "D4", "A#3", "D#3"]
+      },
+      "E": {
+        "name": "C/E",
+        "notes": ["E4", "C4", "G3", "E3"]
+      },
+      "F": {
+        "name": "Gsus4/F",
+        "notes": ["D4", "C4", "G3", "F3"]
+      },
+      "Fs": {
+        "name": "D/F#",
+        "notes": ["F#4", "D4", "A3", "F#3"]
+      },
+      "G": {
+        "name": "C/G",
+        "notes": ["E4", "C4", "G3", "G2"]
+      },
+      "Gs": {
+        "name": "E/G#",
+        "notes": ["E4", "B3", "G#3", "G#2"]
+      },
+      "A": {
+        "name": "Am",
+        "notes": ["E4", "C4", "A3", "A2"]
+      },
+      "As": {
+        "name": "Fsus4",
+        "notes": ["F4", "C4", "A#3", "F3"]
+      },
+      "B": {
+        "name": "G",
+        "notes": ["G4", "D4", "B3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 39,
+    "name": "Synthwave",
+    "chords": {
+      "C": {
+        "name": "C6sus4",
+        "notes": ["A3", "G3", "F3", "C3"]
+      },
+      "Cs": {
+        "name": "Gmadd9/D",
+        "notes": ["A#3", "A3", "G3", "D3"]
+      },
+      "D": {
+        "name": "Edim11",
+        "notes": ["A#3", "A3", "G3", "E3"]
+      },
+      "Ds": {
+        "name": "Fsus2/D",
+        "notes": ["C4", "G3", "F3", "D3"]
+      },
+      "E": {
+        "name": "BbM7",
+        "notes": ["D4", "A#3", "A3", "F3"]
+      },
+      "F": {
+        "name": "Gmadd9",
+        "notes": ["D4", "A#3", "A3", "G3"]
+      },
+      "Fs": {
+        "name": "Am/G",
+        "notes": ["E4", "C4", "A3", "G3"]
+      },
+      "G": {
+        "name": "C7/G",
+        "notes": ["E4", "C4", "A#3", "G3"]
+      },
+      "Gs": {
+        "name": "A#M7",
+        "notes": ["F4", "D4", "A#3", "A3"]
+      },
+      "A": {
+        "name": "Gm/A",
+        "notes": ["G4", "D4", "A#3", "A3"]
+      },
+      "As": {
+        "name": "C7/A#",
+        "notes": ["G4", "E4", "C4", "A#3"]
+      },
+      "B": {
+        "name": "A#m6",
+        "notes": ["G4", "F4", "C#4", "A#3"]
+      }
+    }
+  },
+  {
+    "set": 40,
+    "name": "Synthwave",
+    "chords": {
+      "C": {
+        "name": "Cadd9",
+        "notes": ["G3", "E3", "D3", "C3"]
+      },
+      "Cs": {
+        "name": "Dadd9",
+        "notes": ["A3", "F#3", "E3", "D3"]
+      },
+      "D": {
+        "name": "D#add9",
+        "notes": ["A#3", "G3", "F3", "D#3"]
+      },
+      "Ds": {
+        "name": "Fadd9",
+        "notes": ["C4", "A3", "G3", "F3"]
+      },
+      "E": {
+        "name": "Gadd9",
+        "notes": ["D4", "B3", "A3", "G3"]
+      },
+      "F": {
+        "name": "G#add9",
+        "notes": ["D#4", "C4", "A#3", "G#3"]
+      },
+      "Fs": {
+        "name": "A#add9",
+        "notes": ["F4", "D4", "C4", "A#3"]
+      },
+      "G": {
+        "name": "Cadd9",
+        "notes": ["G4", "E4", "D4", "C4"]
+      },
+      "Gs": {
+        "name": "Dadd9",
+        "notes": ["A4", "F#4", "E4", "D4"]
+      },
+      "A": {
+        "name": "D#add9",
+        "notes": ["A#4", "G4", "F4", "D#4"]
+      },
+      "As": {
+        "name": "Fadd9",
+        "notes": ["C5", "A4", "G4", "F4"]
+      },
+      "B": {
+        "name": "Gadd9",
+        "notes": ["D5", "B4", "A4", "G4"]
+      }
+    }
+  },
+  {
+    "set": 41,
+    "name": "Synthwave",
+    "chords": {
+      "C": {
+        "name": "C",
+        "notes": ["C4", "G3", "E3", "C2"]
+      },
+      "Cs": {
+        "name": "C#dim7",
+        "notes": ["A#3", "G3", "E3", "C#2"]
+      },
+      "D": {
+        "name": "Fsus2/D",
+        "notes": ["C4", "G3", "F3", "D2"]
+      },
+      "Ds": {
+        "name": "D#add9",
+        "notes": ["A#3", "G3", "F3", "D#2"]
+      },
+      "E": {
+        "name": "Csus2/E",
+        "notes": ["C4", "G3", "D3", "E2"]
+      },
+      "F": {
+        "name": "FM7",
+        "notes": ["C4", "A3", "E3", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim",
+        "notes": ["C4", "A3", "F#3", "F#2"]
+      },
+      "G": {
+        "name": "Gsus4",
+        "notes": ["C4", "G3", "D3", "G2"]
+      },
+      "Gs": {
+        "name": "G#6",
+        "notes": ["C4", "G#3", "F3", "G#2"]
+      },
+      "A": {
+        "name": "Csus2/A",
+        "notes": ["C4", "G3", "D3", "A2"]
+      },
+      "As": {
+        "name": "Csus2/A#",
+        "notes": ["C4", "G3", "D3", "A#2"]
+      },
+      "B": {
+        "name": "G7/B",
+        "notes": ["B3", "G3", "F3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 42,
+    "name": "Synthwave",
+    "chords": {
+      "C": {
+        "name": "C",
+        "notes": ["C5", "E4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "A#sus2/D#",
+        "notes": ["C5", "F4", "A#3", "D#3"]
+      },
+      "D": {
+        "name": "A#7/G#",
+        "notes": ["A#4", "F4", "G#3", "G#2"]
+      },
+      "Ds": {
+        "name": "G/B",
+        "notes": ["B4", "D4", "G3", "B2"]
+      },
+      "E": {
+        "name": "C",
+        "notes": ["C5", "E4", "G3", "C3"]
+      },
+      "F": {
+        "name": "Fm",
+        "notes": ["C5", "F4", "G#3", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["C5", "D#4", "A3", "F#2"]
+      },
+      "G": {
+        "name": "C",
+        "notes": ["C5", "E4", "G3", "G2"]
+      },
+      "Gs": {
+        "name": "G#add9",
+        "notes": ["C5", "D#4", "A#3", "G#2"]
+      },
+      "A": {
+        "name": "F/A",
+        "notes": ["C5", "F4", "A3", "A2"]
+      },
+      "As": {
+        "name": "A#",
+        "notes": ["D5", "F4", "A#3", "A#2"]
+      },
+      "B": {
+        "name": "G7/B",
+        "notes": ["D5", "F4", "G3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 43,
+    "name": "Synthwave",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["G4", "D#4", "A#3", "C3"]
+      },
+      "Cs": {
+        "name": "A#/C",
+        "notes": ["F4", "D4", "A#3", "C3"]
+      },
+      "D": {
+        "name": "D#/G#",
+        "notes": ["G4", "D#4", "A#3", "G#2"]
+      },
+      "Ds": {
+        "name": "A#/G#",
+        "notes": ["F4", "D4", "A#3", "G#2"]
+      },
+      "E": {
+        "name": "D#/F",
+        "notes": ["G4", "D#4", "A#3", "F3"]
+      },
+      "F": {
+        "name": "A#/F",
+        "notes": ["F3", "D4", "A#3", "F3"]
+      },
+      "Fs": {
+        "name": "G#add9",
+        "notes": ["D#4", "C4", "A#3", "G#2"]
+      },
+      "G": {
+        "name": "A#",
+        "notes": ["F4", "D4", "A#3", "A#2"]
+      },
+      "Gs": {
+        "name": "G#M7",
+        "notes": ["D#4", "C4", "G3", "G#2"]
+      },
+      "A": {
+        "name": "Fsus2/A",
+        "notes": ["F4", "C4", "G3", "A2"]
+      },
+      "As": {
+        "name": "A#6",
+        "notes": ["F4", "D4", "G3", "A#2"]
+      },
+      "B": {
+        "name": "Fm7/B",
+        "notes": ["F4", "D#4", "G#3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 44,
+    "name": "Synthwave",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["A#4", "G4", "D#4", "C3"]
+      },
+      "Cs": {
+        "name": "C#sus2/F",
+        "notes": ["G#4", "D#4", "C#4", "F3"]
+      },
+      "D": {
+        "name": "Gm7",
+        "notes": ["A#4", "F4", "D4", "G3"]
+      },
+      "Ds": {
+        "name": "D#",
+        "notes": ["A#4", "D#4", "G3", "D#3"]
+      },
+      "E": {
+        "name": "Csus2/E",
+        "notes": ["G4", "D4", "C4", "E3"]
+      },
+      "F": {
+        "name": "Fm",
+        "notes": ["G#4", "F4", "C4", "F3"]
+      },
+      "Fs": {
+        "name": "D#dim7",
+        "notes": ["A4", "D#4", "C4", "F#3"]
+      },
+      "G": {
+        "name": "G#sus2/G",
+        "notes": ["A#4", "D#4", "G#3", "G3"]
+      },
+      "Gs": {
+        "name": "Cm7",
+        "notes": ["A#4", "D#4", "C4", "C3"]
+      },
+      "A": {
+        "name": "F7",
+        "notes": ["A4", "D#4", "C4", "F3"]
+      },
+      "As": {
+        "name": "Fm7",
+        "notes": ["G#4", "D#4", "C4", "F3"]
+      },
+      "B": {
+        "name": "G5",
+        "notes": ["G4", "D4", "D3", "G3"]
+      }
+    }
+  },
+  {
+    "set": 45,
+    "name": "Synthwave",
+    "chords": {
+      "C": {
+        "name": "Ab",
+        "notes": ["Ab3", "Eb3", "C3"]
+      },
+      "Cs": {
+        "name": "Fm",
+        "notes": ["Ab3", "F3", "C3"]
+      },
+      "D": {
+        "name": "Gm",
+        "notes": ["Bb3", "G3", "D3"]
+      },
+      "Ds": {
+        "name": "Ab",
+        "notes": ["C4", "Ab3", "Eb3"]
+      },
+      "E": {
+        "name": "Fm",
+        "notes": ["C4", "Ab3", "F3"]
+      },
+      "F": {
+        "name": "Bb",
+        "notes": ["D3", "Bb3", "F3"]
+      },
+      "Fs": {
+        "name": "Gm",
+        "notes": ["D4", "Bb3", "G3"]
+      },
+      "G": {
+        "name": "Cm",
+        "notes": ["Eb4", "C4", "G3"]
+      },
+      "Gs": {
+        "name": "Ab",
+        "notes": ["Eb4", "C4", "Ab3"]
+      },
+      "A": {
+        "name": "Fm",
+        "notes": ["F4", "C4", "Ab3"]
+      },
+      "As": {
+        "name": "Bb",
+        "notes": ["F4", "D4", "Bb3"]
+      },
+      "B": {
+        "name": "Cm",
+        "notes": ["G4", "Eb4", "C4"]
+      }
+    }
+  },
+  {
+    "set": 46,
+    "name": "Synthwave",
+    "chords": {
+      "C": {
+        "name": "C",
+        "notes": ["E3", "G2", "C2"]
+      },
+      "Cs": {
+        "name": "D",
+        "notes": ["F#3", "A2", "D2"]
+      },
+      "D": {
+        "name": "Em",
+        "notes": ["G3", "B2", "E2"]
+      },
+      "Ds": {
+        "name": "D",
+        "notes": ["A3", "D3", "F#2"]
+      },
+      "E": {
+        "name": "G",
+        "notes": ["B3", "D3", "G2"]
+      },
+      "F": {
+        "name": "Am",
+        "notes": ["C4", "E3", "A2"]
+      },
+      "Fs": {
+        "name": "Bm",
+        "notes": ["D4", "F#3", "B2"]
+      },
+      "G": {
+        "name": "C",
+        "notes": ["E4", "G3", "C3"]
+      },
+      "Gs": {
+        "name": "D",
+        "notes": ["F#4", "A3", "D3"]
+      },
+      "A": {
+        "name": "Em",
+        "notes": ["G4", "B3", "E3"]
+      },
+      "As": {
+        "name": "D",
+        "notes": ["A4", "D4", "F#3"]
+      },
+      "B": {
+        "name": "G",
+        "notes": ["B4", "D4", "G3"]
+      }
+    }
+  },
+  {
+    "set": 47,
+    "name": "Synthwave/House",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["A#3", "G3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "D#M7",
+        "notes": ["D4", "A#3", "G3", "D#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C4", "A3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "Fm7",
+        "notes": ["D#4", "C4", "G#3", "F3"]
+      },
+      "E": {
+        "name": "D#M7",
+        "notes": ["D4", "A#3", "G3", "D#3"]
+      },
+      "F": {
+        "name": "Gm7",
+        "notes": ["F4", "D4", "A#3", "G3"]
+      },
+      "Fs": {
+        "name": "Fm7",
+        "notes": ["D#4", "C4", "G#3", "F3"]
+      },
+      "G": {
+        "name": "G#M7",
+        "notes": ["G4", "D#4", "C4", "G#3"]
+      },
+      "Gs": {
+        "name": "Gm7",
+        "notes": ["F4", "D4", "A#3", "G3"]
+      },
+      "A": {
+        "name": "A#7",
+        "notes": ["G#4", "F4", "D4", "A#3"]
+      },
+      "As": {
+        "name": "G#M7",
+        "notes": ["G4", "D#4", "C4", "G#3"]
+      },
+      "B": {
+        "name": "C#/C",
+        "notes": ["G#4", "F4", "C#4", "C4"]
+      }
+    }
+  },
+  {
+    "set": 48,
+    "name": "Trance",
+    "chords": {
+      "C": {
+        "name": "Cm",
+        "notes": ["Eb4", "G3", "C3", "C2"]
+      },
+      "Cs": {
+        "name": "Ab/C",
+        "notes": ["Eb4", "Ab3", "C3", "C2"]
+      },
+      "D": {
+        "name": "Bb/D",
+        "notes": ["F4", "Bb3", "F3", "D2"]
+      },
+      "Ds": {
+        "name": "Eb",
+        "notes": ["G4", "Bb3", "Bb2", "Eb2"]
+      },
+      "E": {
+        "name": "C/E",
+        "notes": ["G4", "C4", "G3", "E2"]
+      },
+      "F": {
+        "name": "Fm",
+        "notes": ["Ab4", "C4", "F3", "F2"]
+      },
+      "Fs": {
+        "name": "F",
+        "notes": ["A4", "C4", "F3", "F2"]
+      },
+      "G": {
+        "name": "Gm",
+        "notes": ["Bb4", "D4", "G3", "G2"]
+      },
+      "Gs": {
+        "name": "Ab",
+        "notes": ["C4", "Eb3", "Ab2", "Ab1"]
+      },
+      "A": {
+        "name": "F7/A",
+        "notes": ["C4", "F3", "Eb3", "A1"]
+      },
+      "As": {
+        "name": "Bb",
+        "notes": ["D4", "F3", "Bb2", "Bb1"]
+      },
+      "B": {
+        "name": "G7/B",
+        "notes": ["D4", "G3", "F3", "B1"]
+      }
+    }
+  },
+  {
+    "set": 49,
+    "name": "House",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["Eb4", "Bb3", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "C#m7",
+        "notes": ["E4", "B3", "G#3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["F4", "C4", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "EbM7",
+        "notes": ["G4", "D4", "Bb3", "Eb3"]
+      },
+      "E": {
+        "name": "Gm/E",
+        "notes": ["G4", "D4", "Bb3", "E3"]
+      },
+      "F": {
+        "name": "Eb/F",
+        "notes": ["G4", "Eb4", "Bb3", "F3"]
+      },
+      "Fs": {
+        "name": "D7/F#",
+        "notes": ["C4", "A3", "D3", "F#2"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["Bb3", "F3", "D3", "G2"]
+      },
+      "Gs": {
+        "name": "AbM7",
+        "notes": ["C4", "G3", "Eb3", "Ab2"]
+      },
+      "A": {
+        "name": "Ab/Bb",
+        "notes": ["Eb4", "C4", "Ab3", "Bb2"]
+      },
+      "As": {
+        "name": "BbM7",
+        "notes": ["D4", "A3", "F3", "Bb2"]
+      },
+      "B": {
+        "name": "Bm7b5",
+        "notes": ["D4", "A3", "F3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 50,
+    "name": "House",
+    "chords": {
+      "C": {
+        "name": "Cmaj7",
+        "notes": ["E4", "B3", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "Dmaj7",
+        "notes": ["F#4", "C#4", "A3", "D3"]
+      },
+      "D": {
+        "name": "Em7",
+        "notes": ["G4", "D4", "B3", "E3"]
+      },
+      "Ds": {
+        "name": "Fmaj9",
+        "notes": ["G4", "E4", "C4", "F3"]
+      },
+      "E": {
+        "name": "Gmaj9",
+        "notes": ["A4", "F#4", "D4", "G3"]
+      },
+      "F": {
+        "name": "Eadd9/G#",
+        "notes": ["B4", "F#4", "E4", "G#3"]
+      },
+      "Fs": {
+        "name": "Am7",
+        "notes": ["C5", "G4", "E4", "A3"]
+      },
+      "G": {
+        "name": "Bm7",
+        "notes": ["D5", "A4", "F#4", "B3"]
+      },
+      "Gs": {
+        "name": "Cmaj9",
+        "notes": ["D5", "B4", "G4", "C4"]
+      },
+      "A": {
+        "name": "Dm7/9",
+        "notes": ["E5", "C5", "F4", "D4"]
+      },
+      "As": {
+        "name": "Em7",
+        "notes": ["G5", "D5", "B4", "E4"]
+      },
+      "B": {
+        "name": "Fmaj7",
+        "notes": ["A5", "E5", "C5", "F4"]
+      }
+    }
+  },
+  {
+    "set": 51,
+    "name": "House",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["A#3", "G3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "G#/C#",
+        "notes": ["C4", "G#3", "D#3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C4", "A3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "A#/D#",
+        "notes": ["D4", "A#3", "F3", "D#3"]
+      },
+      "E": {
+        "name": "Em7",
+        "notes": ["D4", "B3", "G3", "E3"]
+      },
+      "F": {
+        "name": "C/F",
+        "notes": ["E4", "C4", "G3", "F3"]
+      },
+      "Fs": {
+        "name": "F#m7",
+        "notes": ["E4", "C#4", "A3", "F#3"]
+      },
+      "G": {
+        "name": "D/G",
+        "notes": ["F#4", "D4", "A3", "G3"]
+      },
+      "Gs": {
+        "name": "G#m7",
+        "notes": ["F#4", "D#4", "B3", "G#3"]
+      },
+      "A": {
+        "name": "E/A",
+        "notes": ["G#4", "E4", "B3", "A3"]
+      },
+      "As": {
+        "name": "A#m7",
+        "notes": ["G#4", "F4", "C#4", "A#3"]
+      },
+      "B": {
+        "name": "F#/B",
+        "notes": ["A#4", "F#4", "C#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 52,
+    "name": "House",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["A#4", "D#4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "G#M7",
+        "notes": ["G4", "C4", "D#3", "G#2"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C5", "F4", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "A#M7",
+        "notes": ["A4", "D4", "F3", "A#2"]
+      },
+      "E": {
+        "name": "Em7",
+        "notes": ["D5", "G4", "B3", "E3"]
+      },
+      "F": {
+        "name": "CM7",
+        "notes": ["B4", "E4", "G3", "C3"]
+      },
+      "Fs": {
+        "name": "F#m7",
+        "notes": ["E5", "A4", "C#4", "F#3"]
+      },
+      "G": {
+        "name": "DM7",
+        "notes": ["C#5", "F#4", "A3", "D3"]
+      },
+      "Gs": {
+        "name": "G#m7",
+        "notes": ["F#5", "B4", "D#4", "G#3"]
+      },
+      "A": {
+        "name": "EM7",
+        "notes": ["D#5", "G#4", "B3", "E3"]
+      },
+      "As": {
+        "name": "A#m7",
+        "notes": ["G#5", "C#5", "F4", "A#3"]
+      },
+      "B": {
+        "name": "F#M7",
+        "notes": ["F5", "A#4", "C#4", "F#3"]
+      }
+    }
+  },
+  {
+    "set": 53,
+    "name": "House",
+    "chords": {
+      "C": {
+        "name": "Cm7/11",
+        "notes": ["F4", "A#3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "Cdim7",
+        "notes": ["F#4", "A3", "D#3", "C3"]
+      },
+      "D": {
+        "name": "C#M7/b5",
+        "notes": ["G4", "C4", "F3", "C#3"]
+      },
+      "Ds": {
+        "name": "Ddim7",
+        "notes": ["G#4", "B3", "F3", "D3"]
+      },
+      "E": {
+        "name": "Cm",
+        "notes": ["G4", "C4", "G3", "D#3"]
+      },
+      "F": {
+        "name": "C#M7",
+        "notes": ["F4", "C4", "F3", "C#3"]
+      },
+      "Fs": {
+        "name": "CM7",
+        "notes": ["E4", "B3", "G3", "C3"]
+      },
+      "G": {
+        "name": "Em7",
+        "notes": ["G4", "D4", "B3", "E3"]
+      },
+      "Gs": {
+        "name": "FM7",
+        "notes": ["A4", "E4", "C4", "F3"]
+      },
+      "A": {
+        "name": "Fm6",
+        "notes": ["G#4", "D4", "C4", "F3"]
+      },
+      "As": {
+        "name": "Csus2/E",
+        "notes": ["G4", "D4", "C4", "E3"]
+      },
+      "B": {
+        "name": "Fm",
+        "notes": ["F4", "C4", "G#3", "F3"]
+      }
+    }
+  },
+  {
+    "set": 54,
+    "name": "House",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["B3", "G3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "Em7",
+        "notes": ["D4", "B3", "G3", "E3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C4", "A3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "FM7",
+        "notes": ["E4", "C4", "A3", "F3"]
+      },
+      "E": {
+        "name": "D#M7",
+        "notes": ["D4", "A#3", "G3", "D#3"]
+      },
+      "F": {
+        "name": "Gm7",
+        "notes": ["F4", "D4", "A#3", "G3"]
+      },
+      "Fs": {
+        "name": "FM7",
+        "notes": ["E4", "C4", "A3", "F3"]
+      },
+      "G": {
+        "name": "Am7",
+        "notes": ["G4", "E4", "C4", "A3"]
+      },
+      "Gs": {
+        "name": "Gm7",
+        "notes": ["F4", "D4", "A#3", "G3"]
+      },
+      "A": {
+        "name": "A#M7",
+        "notes": ["A4", "F4", "D4", "A#3"]
+      },
+      "As": {
+        "name": "Am7",
+        "notes": ["G4", "E4", "C4", "A3"]
+      },
+      "B": {
+        "name": "Bm7",
+        "notes": ["A4", "F#4", "D4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 55,
+    "name": "Jazz House",
+    "chords": {
+      "C": {
+        "name": "CM13",
+        "notes": ["B4", "A4", "E4", "C4"]
+      },
+      "Cs": {
+        "name": "CM7#5",
+        "notes": ["B4", "G#4", "E4", "C4"]
+      },
+      "D": {
+        "name": "Dm7b5",
+        "notes": ["C5", "Ab4", "F4", "D4"]
+      },
+      "Ds": {
+        "name": "G7",
+        "notes": ["B4", "G4", "F4", "D4"]
+      },
+      "E": {
+        "name": "Cadd9/E",
+        "notes": ["D5", "C5", "G4", "E4"]
+      },
+      "F": {
+        "name": "Fadd9",
+        "notes": ["C5", "A4", "G4", "F4"]
+      },
+      "Fs": {
+        "name": "FmAdd9",
+        "notes": ["C5", "Ab4", "G4", "F4"]
+      },
+      "G": {
+        "name": "G9",
+        "notes": ["F5", "B4", "A4", "G4"]
+      },
+      "Gs": {
+        "name": "E7/G#",
+        "notes": ["E5", "D5", "B4", "G#4"]
+      },
+      "A": {
+        "name": "Am9/11",
+        "notes": ["B5", "D5", "C5", "A4"]
+      },
+      "As": {
+        "name": "Gm11/Bb",
+        "notes": ["G5", "D5", "C5", "Bb4"]
+      },
+      "B": {
+        "name": "CM7#5/G#",
+        "notes": ["E5", "C5", "B4", "G#4"]
+      }
+    }
+  },
+  {
+    "set": 56,
+    "name": "Jazz House",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["Eb5", "Bb4", "C4", "G3"]
+      },
+      "Cs": {
+        "name": "Db6",
+        "notes": ["F5", "Bb4", "Db4", "Ab3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["F5", "C5", "D4", "A3"]
+      },
+      "Ds": {
+        "name": "Dm7b5",
+        "notes": ["F5", "C5", "D4", "Ab3"]
+      },
+      "E": {
+        "name": "EbM7",
+        "notes": ["G5", "D5", "Eb4", "Bb3"]
+      },
+      "F": {
+        "name": "Fm7",
+        "notes": ["Ab5", "Eb5", "F4", "C4"]
+      },
+      "Fs": {
+        "name": "Gb6",
+        "notes": ["Bb5", "Eb5", "Gb4", "Db4"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["Bb5", "F5", "G4", "D4"]
+      },
+      "Gs": {
+        "name": "Ab6",
+        "notes": ["C6", "F5", "Ab4", "Eb4"]
+      },
+      "A": {
+        "name": "AbM7",
+        "notes": ["C6", "G5", "Ab4", "Eb4"]
+      },
+      "As": {
+        "name": "Am7",
+        "notes": ["C6", "G5", "A4", "E4"]
+      },
+      "B": {
+        "name": "BbM7",
+        "notes": ["D6", "A5", "Bb4", "F4"]
+      }
+    }
+  },
+  {
+    "set": 57,
+    "name": "House/Techno",
+    "chords": {
+      "C": {
+        "name": "C5b9",
+        "notes": ["C4", "G3", "C#3", "C3"]
+      },
+      "Cs": {
+        "name": "DbM7",
+        "notes": ["C4", "G#3", "F3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C4", "A3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "Ebsus11",
+        "notes": ["C#4", "A#3", "G#3", "D#3"]
+      },
+      "E": {
+        "name": "EM7#11",
+        "notes": ["D#4", "A#3", "G#3", "E3"]
+      },
+      "F": {
+        "name": "Fm9",
+        "notes": ["C4", "G#3", "G3", "F3"]
+      },
+      "Fs": {
+        "name": "GbM7#11",
+        "notes": ["F4", "C3", "A#3", "F#3"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["F4", "D3", "A#3", "G3"]
+      },
+      "Gs": {
+        "name": "AbM7#11",
+        "notes": ["G4", "D4", "C4", "G#3"]
+      },
+      "A": {
+        "name": "A7alt",
+        "notes": ["G4", "C#4", "C4", "A3"]
+      },
+      "As": {
+        "name": "Bb5add9/b13",
+        "notes": ["F4", "C4", "F#3", "A#2"]
+      },
+      "B": {
+        "name": "C7sus4",
+        "notes": ["A#3", "G3", "F3", "C3"]
+      }
+    }
+  },
+  {
+    "set": 58,
+    "name": "Techno",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["G4", "D#4", "A#3", "C3"]
+      },
+      "Cs": {
+        "name": "A#m/C#",
+        "notes": ["F4", "C#4", "A#3", "C#3"]
+      },
+      "D": {
+        "name": "A#/D",
+        "notes": ["F4", "D4", "A#3", "D3"]
+      },
+      "Ds": {
+        "name": "D#",
+        "notes": ["G4", "D#4", "A#3", "D#3"]
+      },
+      "E": {
+        "name": "C/E",
+        "notes": ["G4", "E4", "C4", "E2"]
+      },
+      "F": {
+        "name": "Cm/F",
+        "notes": ["G4", "D#4", "C4", "F2"]
+      },
+      "Fs": {
+        "name": "D/F#",
+        "notes": ["A4", "F#4", "D4", "F#2"]
+      },
+      "G": {
+        "name": "G",
+        "notes": ["G4", "D4", "B3", "G2"]
+      },
+      "Gs": {
+        "name": "G#M7",
+        "notes": ["G4", "D#4", "C4", "G#2"]
+      },
+      "A": {
+        "name": "Csus4/A",
+        "notes": ["G4", "F4", "C4", "A2"]
+      },
+      "As": {
+        "name": "D#/A#",
+        "notes": ["G4", "D#4", "A#3", "A#2"]
+      },
+      "B": {
+        "name": "G/B",
+        "notes": ["G4", "D4", "B3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 59,
+    "name": "EDM",
+    "chords": {
+      "C": {
+        "name": "CM9",
+        "notes": ["B3", "A3", "D3", "C3"]
+      },
+      "Cs": {
+        "name": "C6",
+        "notes": ["F#3", "B3", "E3", "D#3"]
+      },
+      "D": {
+        "name": "Dm9",
+        "notes": ["C#4", "B3", "E3", "D3"]
+      },
+      "Ds": {
+        "name": "Dm6",
+        "notes": ["G#4", "C#4", "F#3", "F3"]
+      },
+      "E": {
+        "name": "EM9",
+        "notes": ["D#4", "C#4", "F#3", "E3"]
+      },
+      "F": {
+        "name": "FM9",
+        "notes": ["E4", "D4", "G3", "F3"]
+      },
+      "Fs": {
+        "name": "F6",
+        "notes": ["B4", "E4", "A3", "G#3"]
+      },
+      "G": {
+        "name": "GM9",
+        "notes": ["F#4", "E4", "A3", "G3"]
+      },
+      "Gs": {
+        "name": "G6",
+        "notes": ["C#4", "F#4", "B3", "A#3"]
+      },
+      "A": {
+        "name": "Am9",
+        "notes": ["G#5", "F#4", "B3", "A3"]
+      },
+      "As": {
+        "name": "Am6",
+        "notes": ["D#5", "G#4", "C#4", "C4"]
+      },
+      "B": {
+        "name": "Bm9",
+        "notes": ["A#5", "G#4", "C#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 60,
+    "name": "EDM",
+    "chords": {
+      "C": {
+        "name": "CM13(no 3)",
+        "notes": ["B3", "A3", "D3", "C3"]
+      },
+      "Cs": {
+        "name": "EM9(no 3)",
+        "notes": ["F#4", "B3", "E3", "D#3"]
+      },
+      "D": {
+        "name": "DM13(no 3)",
+        "notes": ["C#4", "B3", "E3", "D3"]
+      },
+      "Ds": {
+        "name": "F#M9(no 3)",
+        "notes": ["G#4", "C#4", "F#3", "F3"]
+      },
+      "E": {
+        "name": "EM13(no 3)",
+        "notes": ["D#4", "C#4", "F#3", "E3"]
+      },
+      "F": {
+        "name": "FM13(no3)",
+        "notes": ["E4", "D4", "G3", "F3"]
+      },
+      "Fs": {
+        "name": "AM9(no3)",
+        "notes": ["B4", "E4", "A3", "G#3"]
+      },
+      "G": {
+        "name": "GM13(no3)",
+        "notes": ["F#4", "E4", "A3", "G3"]
+      },
+      "Gs": {
+        "name": "BM9(no3)",
+        "notes": ["C#5", "F#4", "B3", "A#3"]
+      },
+      "A": {
+        "name": "AM13(no3)",
+        "notes": ["G#4", "F#4", "B3", "A3"]
+      },
+      "As": {
+        "name": "C#M9(no 3)",
+        "notes": ["D#5", "G#4", "C#4", "C4"]
+      },
+      "B": {
+        "name": "BM13(no3)",
+        "notes": ["A#4", "G#4", "C#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 61,
+    "name": "EDM",
+    "chords": {
+      "C": {
+        "name": "Csus9/13",
+        "notes": ["A4", "D4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "C6",
+        "notes": ["E5", "A4", "G3", "C3"]
+      },
+      "D": {
+        "name": "Dsus9/13",
+        "notes": ["B4", "E4", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "D6",
+        "notes": ["F#5", "B4", "A3", "D3"]
+      },
+      "E": {
+        "name": "Esus9/13",
+        "notes": ["C#5", "F#4", "B3", "E3"]
+      },
+      "F": {
+        "name": "Fsus9/13",
+        "notes": ["D5", "G4", "C4", "F3"]
+      },
+      "Fs": {
+        "name": "F6",
+        "notes": ["A4", "D5", "C4", "F3"]
+      },
+      "G": {
+        "name": "Gsus9/13",
+        "notes": ["E5", "A4", "D4", "G3"]
+      },
+      "Gs": {
+        "name": "G6",
+        "notes": ["B4", "E4", "D4", "G3"]
+      },
+      "A": {
+        "name": "Asus9/13",
+        "notes": ["F#5", "B4", "E4", "A3"]
+      },
+      "As": {
+        "name": "A6",
+        "notes": ["C#5", "F#4", "E4", "A3"]
+      },
+      "B": {
+        "name": "Bsus9/13",
+        "notes": ["G#5", "C#5", "F#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 62,
+    "name": "EDM",
+    "chords": {
+      "C": {
+        "name": "CM13",
+        "notes": ["E4", "B3", "A3", "C3"]
+      },
+      "Cs": {
+        "name": "C#sus9",
+        "notes": ["D#4", "A#3", "F#3", "C#3"]
+      },
+      "D": {
+        "name": "DM13",
+        "notes": ["F#4", "C#4", "B3", "D3"]
+      },
+      "Ds": {
+        "name": "D#sus9",
+        "notes": ["F4", "A#3", "G#3", "D#3"]
+      },
+      "E": {
+        "name": "EM13",
+        "notes": ["G#4", "D#4", "C#4", "E3"]
+      },
+      "F": {
+        "name": "FM13",
+        "notes": ["A4", "E4", "D4", "F3"]
+      },
+      "Fs": {
+        "name": "F#sus9",
+        "notes": ["G#4", "C#4", "B3", "F#3"]
+      },
+      "G": {
+        "name": "GMaj13",
+        "notes": ["B4", "F#4", "E4", "G3"]
+      },
+      "Gs": {
+        "name": "Absus9",
+        "notes": ["A#4", "D#4", "C#4", "G#3"]
+      },
+      "A": {
+        "name": "AM13",
+        "notes": ["C#5", "G#4", "F#4", "A3"]
+      },
+      "As": {
+        "name": "Bbsus9",
+        "notes": ["C5", "F4", "D#4", "A#3"]
+      },
+      "B": {
+        "name": "BM13",
+        "notes": ["D#5", "A#4", "G#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 63,
+    "name": "EDM",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["E4", "B3", "C3", "G2"]
+      },
+      "Cs": {
+        "name": "Dbm7",
+        "notes": ["E4", "B3", "C#3", "G#2"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["F4", "C4", "D3", "A2"]
+      },
+      "Ds": {
+        "name": "Eb6",
+        "notes": ["G4", "C4", "D#3", "A#2"]
+      },
+      "E": {
+        "name": "Em7",
+        "notes": ["G4", "D4", "E3", "B2"]
+      },
+      "F": {
+        "name": "FM7",
+        "notes": ["A4", "E4", "F3", "C3"]
+      },
+      "Fs": {
+        "name": "Gbm7",
+        "notes": ["A4", "E4", "F#3", "C#3"]
+      },
+      "G": {
+        "name": "GM7",
+        "notes": ["B4", "F#4", "G3", "D3"]
+      },
+      "Gs": {
+        "name": "Abm7",
+        "notes": ["B4", "F#4", "G#3", "D#3"]
+      },
+      "A": {
+        "name": "Am7",
+        "notes": ["C5", "G4", "A3", "E3"]
+      },
+      "As": {
+        "name": "Bb6",
+        "notes": ["D5", "G4", "B3", "F3"]
+      },
+      "B": {
+        "name": "Bm7",
+        "notes": ["D5", "A4", "B3", "F#3"]
+      }
+    }
+  },
+  {
+    "set": 64,
+    "name": "EDM",
+    "chords": {
+      "C": {
+        "name": "C6",
+        "notes": ["E4", "A3", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "AM7",
+        "notes": ["E4", "A3", "G#3", "C#3"]
+      },
+      "D": {
+        "name": "D6",
+        "notes": ["F#4", "B3", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "BM7",
+        "notes": ["F#4", "B3", "A#3", "D#3"]
+      },
+      "E": {
+        "name": "E6",
+        "notes": ["G#4", "C#4", "B3", "E3"]
+      },
+      "F": {
+        "name": "F6",
+        "notes": ["A4", "D4", "C4", "F3"]
+      },
+      "Fs": {
+        "name": "DM7",
+        "notes": ["A4", "D4", "C#4", "F#3"]
+      },
+      "G": {
+        "name": "G6",
+        "notes": ["B4", "E4", "D4", "G3"]
+      },
+      "Gs": {
+        "name": "EM7",
+        "notes": ["B4", "E4", "D#4", "G#3"]
+      },
+      "A": {
+        "name": "A6",
+        "notes": ["C#5", "F#4", "E4", "A3"]
+      },
+      "As": {
+        "name": "GbM7",
+        "notes": ["C#5", "F#4", "F4", "A#3"]
+      },
+      "B": {
+        "name": "B6",
+        "notes": ["D#5", "G#4", "F#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 65,
+    "name": "Gospel/R&B",
+    "chords": {
+      "C": {
+        "name": "G/C",
+        "notes": ["G4", "D4", "B3", "C3"]
+      },
+      "Cs": {
+        "name": "C#dim7",
+        "notes": ["G4", "E4", "A#3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7b5",
+        "notes": ["F4", "C4", "Ab3", "D3"]
+      },
+      "Ds": {
+        "name": "D#dim7",
+        "notes": ["F#4", "C4", "A3", "D#3"]
+      },
+      "E": {
+        "name": "Em7",
+        "notes": ["G4", "D4", "B3", "E3"]
+      },
+      "F": {
+        "name": "Fm11",
+        "notes": ["Eb4", "Bb3", "Ab3", "F2"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["D#4", "A3", "C3", "F#2"]
+      },
+      "G": {
+        "name": "Gm7b13",
+        "notes": ["Eb4", "Bb3", "F3", "G2"]
+      },
+      "Gs": {
+        "name": "G#M9",
+        "notes": ["G4", "C4", "A#3", "G#2"]
+      },
+      "A": {
+        "name": "Am7/b13",
+        "notes": ["F4", "C3", "G3", "A2"]
+      },
+      "As": {
+        "name": "A#m7 add 13",
+        "notes": ["G4", "C#4", "G#3", "A#2"]
+      },
+      "B": {
+        "name": "Bm7/b13",
+        "notes": ["G4", "D3", "A3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 66,
+    "name": "Gospel/R&B",
+    "chords": {
+      "C": {
+        "name": "Cm7/b13",
+        "notes": ["F4", "Bb3", "Ab3", "C3"]
+      },
+      "Cs": {
+        "name": "C#M13",
+        "notes": ["F4", "C4", "A#3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7/b13",
+        "notes": ["F4", "C4", "Bb3", "D3"]
+      },
+      "Ds": {
+        "name": "D#m11",
+        "notes": ["F#4", "C#4", "G#3", "D#3"]
+      },
+      "E": {
+        "name": "D/E",
+        "notes": ["F#4", "D4", "A3", "E3"]
+      },
+      "F": {
+        "name": "G#m/F",
+        "notes": ["G#4", "D#4", "B3", "F3"]
+      },
+      "Fs": {
+        "name": "F#6",
+        "notes": ["A#4", "D#4", "C#4", "F#3"]
+      },
+      "G": {
+        "name": "A#m/G",
+        "notes": ["A#4", "F4", "C#4", "G3"]
+      },
+      "Gs": {
+        "name": "G#m11",
+        "notes": ["B4", "F#4", "C#4", "G#3"]
+      },
+      "A": {
+        "name": "AM9",
+        "notes": ["B4", "E4", "C#4", "A3"]
+      },
+      "As": {
+        "name": "A#7/b13",
+        "notes": ["G#4", "F#4", "D4", "A#3"]
+      },
+      "B": {
+        "name": "F#/B",
+        "notes": ["A#4", "F#4", "C#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 67,
+    "name": "Gospel/R&B",
+    "chords": {
+      "C": {
+        "name": "D",
+        "notes": ["D4", "A3", "F#3", "D2"]
+      },
+      "Cs": {
+        "name": "C/D",
+        "notes": ["C4", "G3", "E3", "D2"]
+      },
+      "D": {
+        "name": "D/E",
+        "notes": ["D4", "A3", "F#3", "E2"]
+      },
+      "Ds": {
+        "name": "Dm/F",
+        "notes": ["D4", "A3", "F3", "F2"]
+      },
+      "E": {
+        "name": "Dsus2/F#",
+        "notes": ["D4", "A3", "E3", "F#2"]
+      },
+      "F": {
+        "name": "Gadd9",
+        "notes": ["D4", "B3", "A3", "G2"]
+      },
+      "Fs": {
+        "name": "E/G#",
+        "notes": ["E4", "B3", "G#3", "G#2"]
+      },
+      "G": {
+        "name": "A",
+        "notes": ["E4", "C#4", "A3", "A1"]
+      },
+      "Gs": {
+        "name": "A#dim7",
+        "notes": ["C#4", "G3", "E3", "A#1"]
+      },
+      "A": {
+        "name": "Bm7",
+        "notes": ["D4", "A3", "F#3", "B1"]
+      },
+      "As": {
+        "name": "D/C",
+        "notes": ["D4", "A3", "F#3", "C2"]
+      },
+      "B": {
+        "name": "C#dim",
+        "notes": ["C#4", "G3", "E3", "C#2"]
+      }
+    }
+  },
+  {
+    "set": 68,
+    "name": "Lofi R&B",
+    "chords": {
+      "C": {
+        "name": "Cmadd9",
+        "notes": ["D#4", "D4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "Abadd9/C",
+        "notes": ["D#4", "A#3", "G#3", "C3"]
+      },
+      "D": {
+        "name": "Bb7/D",
+        "notes": ["F4", "A#3", "G#3", "D3"]
+      },
+      "Ds": {
+        "name": "EbM9",
+        "notes": ["D4", "G3", "F3", "D#3"]
+      },
+      "E": {
+        "name": "Eb7/b9",
+        "notes": ["C#4", "G3", "E3", "D#3"]
+      },
+      "F": {
+        "name": "Fm9",
+        "notes": ["D#4", "G#3", "G3", "F3"]
+      },
+      "Fs": {
+        "name": "GbM6/9",
+        "notes": ["D#4", "A#3", "G#3", "F#3"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["F4", "D4", "A#3", "G3"]
+      },
+      "Gs": {
+        "name": "Eb/Ab",
+        "notes": ["G4", "D#4", "A#3", "G#3"]
+      },
+      "A": {
+        "name": "Fsus4/A",
+        "notes": ["F4", "C4", "A#3", "A3"]
+      },
+      "As": {
+        "name": "Bbsus",
+        "notes": ["F4", "D#4", "D4", "A#3"]
+      },
+      "B": {
+        "name": "Bbsus4/b9",
+        "notes": ["A#4", "D#4", "B3", "A#3"]
+      }
+    }
+  },
+  {
+    "set": 69,
+    "name": "Lofi R&B",
+    "chords": {
+      "C": {
+        "name": "Ab7/C",
+        "notes": ["G#3", "F#3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "C#m11",
+        "notes": ["B3", "F#3", "E3", "C#3"]
+      },
+      "D": {
+        "name": "DM9",
+        "notes": ["C#4", "F#3", "E3", "D3"]
+      },
+      "Ds": {
+        "name": "Bsus4/Eb",
+        "notes": ["B3", "F#3", "E3", "D#3"]
+      },
+      "E": {
+        "name": "EM add2",
+        "notes": ["B3", "G#3", "F#3", "E3"]
+      },
+      "F": {
+        "name": "DM7#11",
+        "notes": ["C#4", "G#3", "F#3", "D3"]
+      },
+      "Fs": {
+        "name": "F#m11",
+        "notes": ["E3", "B2", "A2", "F#2"]
+      },
+      "G": {
+        "name": "G6",
+        "notes": ["E3", "B2", "A2", "G2"]
+      },
+      "Gs": {
+        "name": "Abm7",
+        "notes": ["F#3", "D#3", "B2", "G#2"]
+      },
+      "A": {
+        "name": "AM7add6",
+        "notes": ["G#3", "F#3", "C#3", "A2"]
+      },
+      "As": {
+        "name": "F#add9/A#",
+        "notes": ["G#3", "F#3", "C#3", "A#2"]
+      },
+      "B": {
+        "name": "BM add4",
+        "notes": ["F#3", "E3", "D#3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 70,
+    "name": "Funk",
+    "chords": {
+      "C": {
+        "name": "C9",
+        "notes": ["D4", "Bb3", "E3", "C2"]
+      },
+      "Cs": {
+        "name": "C/D",
+        "notes": ["E4", "C4", "G3", "D2"]
+      },
+      "D": {
+        "name": "D7b9",
+        "notes": ["Eb4", "C4", "F#3", "D2"]
+      },
+      "Ds": {
+        "name": "EbM7",
+        "notes": ["D4", "Bb3", "G3", "Eb2"]
+      },
+      "E": {
+        "name": "Em7b13",
+        "notes": ["D4", "C4", "G3", "E2"]
+      },
+      "F": {
+        "name": "Eb/F",
+        "notes": ["Eb4", "Bb3", "G3", "F2"]
+      },
+      "Fs": {
+        "name": "F#13",
+        "notes": ["Eb4", "Bb3", "E3", "F#2"]
+      },
+      "G": {
+        "name": "G7",
+        "notes": ["D4", "B3", "F3", "G2"]
+      },
+      "Gs": {
+        "name": "Abm6 add b13",
+        "notes": ["E4", "B3", "F3", "Ab2"]
+      },
+      "A": {
+        "name": "Am7",
+        "notes": ["E4", "C4", "G3", "A2"]
+      },
+      "As": {
+        "name": "Bm7",
+        "notes": ["F#4", "D4", "A3", "B2"]
+      },
+      "B": {
+        "name": "B7",
+        "notes": ["F#4", "D#4", "A3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 71,
+    "name": "Funk",
+    "chords": {
+      "C": {
+        "name": "C7alt",
+        "notes": ["Eb4", "Ab3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "DbM7",
+        "notes": ["F4", "C4", "Ab3", "Db3"]
+      },
+      "D": {
+        "name": "D7alt",
+        "notes": ["F4", "C4", "F#3", "D3"]
+      },
+      "Ds": {
+        "name": "Eb7",
+        "notes": ["G4", "Db4", "Bb3", "Eb3"]
+      },
+      "E": {
+        "name": "C7/E",
+        "notes": ["G4", "C4", "Bb3", "E3"]
+      },
+      "F": {
+        "name": "F7alt",
+        "notes": ["Ab4", "Eb4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "F11sus2",
+        "notes": ["G4", "Eb4", "Bb3", "F3"]
+      },
+      "G": {
+        "name": "Gm7b5",
+        "notes": ["F4", "Db4", "Bb3", "G3"]
+      },
+      "Gs": {
+        "name": "Ab9",
+        "notes": ["Bb4", "Gb4", "C4", "Ab3"]
+      },
+      "A": {
+        "name": "Bb9sus",
+        "notes": ["Ab4", "Eb4", "C4", "Bb3"]
+      },
+      "As": {
+        "name": "Bb7add9",
+        "notes": ["Ab4", "D4", "C4", "Bb3"]
+      },
+      "B": {
+        "name": "C11sus2",
+        "notes": ["D4", "Bb3", "F3", "C3"]
+      }
+    }
+  },
+  {
+    "set": 72,
+    "name": "Neo Soul",
+    "chords": {
+      "C": {
+        "name": "Cm9",
+        "notes": ["D4", "A#3", "D#3", "C3"]
+      },
+      "Cs": {
+        "name": "AbM7",
+        "notes": ["C4", "G#3", "G3", "D#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C4", "A3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "EbDimM7",
+        "notes": ["D4", "A3", "F#3", "D#3"]
+      },
+      "E": {
+        "name": "EbM7",
+        "notes": ["D4", "A#3", "G3", "D#3"]
+      },
+      "F": {
+        "name": "Fm7",
+        "notes": ["D#4", "C4", "G#3", "F3"]
+      },
+      "Fs": {
+        "name": "CM7#5",
+        "notes": ["E4", "C4", "G#3", "G3"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["F4", "D4", "A#3", "G3"]
+      },
+      "Gs": {
+        "name": "G7#5",
+        "notes": ["F4", "D#4", "B3", "G3"]
+      },
+      "A": {
+        "name": "AbM7",
+        "notes": ["G4", "D#4", "C4", "G#3"]
+      },
+      "As": {
+        "name": "Fm7b5/B",
+        "notes": ["G#4", "F4", "D#4", "B3"]
+      },
+      "B": {
+        "name": "Bb13/D",
+        "notes": ["G4", "A#3", "G#3", "D3"]
+      }
+    }
+  },
+  {
+    "set": 73,
+    "name": "Neo Soul",
+    "chords": {
+      "C": {
+        "name": "Cm7",
+        "notes": ["Bb4", "G4", "Eb4", "C4"]
+      },
+      "Cs": {
+        "name": "C#dim7",
+        "notes": ["A#4", "G4", "E4", "C#4"]
+      },
+      "D": {
+        "name": "Fm7",
+        "notes": ["Ab4", "F4", "Eb4", "C4"]
+      },
+      "Ds": {
+        "name": "Fm7/b5",
+        "notes": ["Ab4", "F4", "Eb4", "B3"]
+      },
+      "E": {
+        "name": "EbM7",
+        "notes": ["Bb4", "G4", "Eb4", "D4"]
+      },
+      "F": {
+        "name": "Cm7/Eb",
+        "notes": ["C5", "Bb4", "G4", "Eb4"]
+      },
+      "Fs": {
+        "name": "Edim",
+        "notes": ["Db5", "Bb4", "G4", "E4"]
+      },
+      "G": {
+        "name": "AbM7",
+        "notes": ["C5", "Ab4", "G4", "Eb4"]
+      },
+      "Gs": {
+        "name": "Fm7",
+        "notes": ["Eb5", "C5", "Ab4", "F4"]
+      },
+      "A": {
+        "name": "AbM13",
+        "notes": ["F5", "C5", "Ab4", "G4"]
+      },
+      "As": {
+        "name": "Bb13",
+        "notes": ["G5", "D5", "Bb4", "Ab4"]
+      },
+      "B": {
+        "name": "Bb6",
+        "notes": ["G5", "F5", "D5", "Bb4"]
+      }
+    }
+  },
+  {
+    "set": 74,
+    "name": "Neo Soul",
+    "chords": {
+      "C": {
+        "name": "Em7/D",
+        "notes": ["B3", "G3", "E3", "D3"]
+      },
+      "Cs": {
+        "name": "Gm7b5/C#",
+        "notes": ["A#3", "G3", "F3", "C#3"]
+      },
+      "D": {
+        "name": "FM7/E",
+        "notes": ["C4", "A3", "F3", "E3"]
+      },
+      "Ds": {
+        "name": "DMb7/D#",
+        "notes": ["D4", "A3", "F#3", "D#3"]
+      },
+      "E": {
+        "name": "GM7/F#",
+        "notes": ["D4", "B3", "G3", "F#3"]
+      },
+      "F": {
+        "name": "Edim7",
+        "notes": ["C#4", "A#3", "G3", "E3"]
+      },
+      "Fs": {
+        "name": "Cadd13/E",
+        "notes": ["C4", "A3", "G3", "E3"]
+      },
+      "G": {
+        "name": "E",
+        "notes": ["E4", "B3", "G#3", "E3"]
+      },
+      "Gs": {
+        "name": "Gaddb9/G#",
+        "notes": ["G4", "D4", "B3", "G#3"]
+      },
+      "A": {
+        "name": "Am9",
+        "notes": ["G4", "C4", "B3", "A3"]
+      },
+      "As": {
+        "name": "Dm7",
+        "notes": ["F4", "C4", "F3", "D3"]
+      },
+      "B": {
+        "name": "Emb9/F",
+        "notes": ["E4", "B3", "G3", "F3"]
+      }
+    }
+  },
+  {
+    "set": 75,
+    "name": "Neo Soul",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["B4", "E4", "C4", "G3"]
+      },
+      "Cs": {
+        "name": "C#m7",
+        "notes": ["B4", "E4", "C#4", "G#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C5", "F4", "D4", "A3"]
+      },
+      "Ds": {
+        "name": "EbM7",
+        "notes": ["D5", "G4", "Eb4", "Bb3"]
+      },
+      "E": {
+        "name": "Em7",
+        "notes": ["D5", "G4", "E4", "B3"]
+      },
+      "F": {
+        "name": "FM7",
+        "notes": ["E5", "A4", "F4", "C4"]
+      },
+      "Fs": {
+        "name": "Gb7",
+        "notes": ["E5", "Bb4", "Gb4", "Db4"]
+      },
+      "G": {
+        "name": "GM7",
+        "notes": ["F#5", "B4", "G4", "D4"]
+      },
+      "Gs": {
+        "name": "AbM7",
+        "notes": ["G5", "C5", "Ab4", "Eb4"]
+      },
+      "A": {
+        "name": "Am7",
+        "notes": ["G5", "C5", "A4", "E4"]
+      },
+      "As": {
+        "name": "BbM7",
+        "notes": ["A5", "D5", "Bb4", "F4"]
+      },
+      "B": {
+        "name": "Bm7",
+        "notes": ["A5", "D5", "B4", "F#4"]
+      }
+    }
+  },
+  {
+    "set": 76,
+    "name": "Neo-Soul",
+    "chords": {
+      "C": {
+        "name": "CM7sus2",
+        "notes": ["B3", "G3", "D3", "C3"]
+      },
+      "Cs": {
+        "name": "Gadd9/B",
+        "notes": ["D4", "A3", "G3", "B2"]
+      },
+      "D": {
+        "name": "DM7sus2",
+        "notes": ["C#4", "A3", "E3", "D3"]
+      },
+      "Ds": {
+        "name": "E6sus4/C#",
+        "notes": ["E4", "B3", "A3", "C#3"]
+      },
+      "E": {
+        "name": "EM7sus2",
+        "notes": ["D#4", "B3", "F#3", "E3"]
+      },
+      "F": {
+        "name": "F#6sus4/D#",
+        "notes": ["F#4", "C#4", "B3", "D#3"]
+      },
+      "Fs": {
+        "name": "F#M7sus2",
+        "notes": ["F4", "C#4", "G#3", "F#3"]
+      },
+      "G": {
+        "name": "G#6sus4/F",
+        "notes": ["G#4", "D#4", "C#4", "F3"]
+      },
+      "Gs": {
+        "name": "G#M7sus2",
+        "notes": ["G4", "D#4", "A#3", "G#3"]
+      },
+      "A": {
+        "name": "A#6sus4/G",
+        "notes": ["A#4", "F4", "D#4", "G3"]
+      },
+      "As": {
+        "name": "A#M7sus2",
+        "notes": ["A4", "F4", "C4", "A#3"]
+      },
+      "B": {
+        "name": "Fadd9/A",
+        "notes": ["C5", "G4", "F4", "A3"]
+      }
+    }
+  },
+  {
+    "set": 77,
+    "name": "Neo-Soul",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["E4", "B3", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "C#m7",
+        "notes": ["E4", "B3", "G#3", "C#3"]
+      },
+      "D": {
+        "name": "DM7",
+        "notes": ["F#4", "C#4", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "D#m7",
+        "notes": ["F#4", "C#4", "A#3", "D#3"]
+      },
+      "E": {
+        "name": "EM7",
+        "notes": ["G#4", "D#4", "B3", "E3"]
+      },
+      "F": {
+        "name": "Fm7",
+        "notes": ["G#4", "D#4", "C4", "F3"]
+      },
+      "Fs": {
+        "name": "F#M7",
+        "notes": ["A#4", "F4", "C#4", "F#3"]
+      },
+      "G": {
+        "name": "Gm7",
+        "notes": ["A#4", "F4", "D4", "G3"]
+      },
+      "Gs": {
+        "name": "AbM7",
+        "notes": ["C5", "G4", "D#4", "G#3"]
+      },
+      "A": {
+        "name": "Am7",
+        "notes": ["C5", "G4", "E4", "A3"]
+      },
+      "As": {
+        "name": "BbM7",
+        "notes": ["D5", "A4", "F4", "A#3"]
+      },
+      "B": {
+        "name": "Bm7",
+        "notes": ["D5", "A4", "F#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 78,
+    "name": "Neo-Soul",
+    "chords": {
+      "C": {
+        "name": "C11sus",
+        "notes": ["Bb4", "F4", "D4", "C4"]
+      },
+      "Cs": {
+        "name": "A7/C#",
+        "notes": ["A4", "E4", "G3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["F4", "C4", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "EbM7",
+        "notes": ["D4", "Bb3", "G3", "Eb3"]
+      },
+      "E": {
+        "name": "C7/E",
+        "notes": ["C4", "Bb3", "G3", "E3"]
+      },
+      "F": {
+        "name": "F6",
+        "notes": ["D4", "C4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "D7/F#",
+        "notes": ["D4", "C4", "A3", "F#3"]
+      },
+      "G": {
+        "name": "Gdim7",
+        "notes": ["E4", "Db4", "Bb3", "G3"]
+      },
+      "Gs": {
+        "name": "E7/G#",
+        "notes": ["E4", "D4", "B3", "G#3"]
+      },
+      "A": {
+        "name": "F6/A",
+        "notes": ["F4", "D4", "C4", "A3"]
+      },
+      "As": {
+        "name": "Bb6",
+        "notes": ["G4", "F4", "D4", "Bb3"]
+      },
+      "B": {
+        "name": "Bm7b5",
+        "notes": ["A4", "F4", "D4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 79,
+    "name": "Neo-Soul",
+    "chords": {
+      "C": {
+        "name": "Ab/C",
+        "notes": ["Ab3", "Eb3", "C3"]
+      },
+      "Cs": {
+        "name": "Db",
+        "notes": ["Ab3", "F3", "Db3"]
+      },
+      "D": {
+        "name": "Bb/D",
+        "notes": ["Bb3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "Ebm",
+        "notes": ["Bb3", "Gb3", "Eb3"]
+      },
+      "E": {
+        "name": "C/E",
+        "notes": ["C4", "G3", "E3"]
+      },
+      "F": {
+        "name": "Db/F",
+        "notes": ["Db4", "Ab3", "F3"]
+      },
+      "Fs": {
+        "name": "Gb",
+        "notes": ["Db4", "Bb3", "Gb3"]
+      },
+      "G": {
+        "name": "Eb/G",
+        "notes": ["Eb4", "Bb3", "G3"]
+      },
+      "Gs": {
+        "name": "Db/Ab",
+        "notes": ["F4", "Db4", "Ab3"]
+      },
+      "A": {
+        "name": "F7/A",
+        "notes": ["F4", "Eb4", "A3"]
+      },
+      "As": {
+        "name": "Ebm/Bb",
+        "notes": ["Gb4", "Eb4", "Bb3"]
+      },
+      "B": {
+        "name": "B",
+        "notes": ["F#4", "D#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 80,
+    "name": "Neo-Soul",
+    "chords": {
+      "C": {
+        "name": "Cm7b5",
+        "notes": ["D#4", "A#3", "F#3", "C3"]
+      },
+      "Cs": {
+        "name": "Db7sus",
+        "notes": ["F#4", "D#4", "B3", "C#3"]
+      },
+      "D": {
+        "name": "Bbadd2/D",
+        "notes": ["F4", "C4", "A#3", "D3"]
+      },
+      "Ds": {
+        "name": "Ebm7",
+        "notes": ["F#4", "C#4", "A#3", "D#3"]
+      },
+      "E": {
+        "name": "EM7",
+        "notes": ["G#4", "D#4", "B3", "E3"]
+      },
+      "F": {
+        "name": "Fmb6",
+        "notes": ["G#4", "C#4", "C4", "F3"]
+      },
+      "Fs": {
+        "name": "GbM9",
+        "notes": ["F4", "C#4", "G#3", "F#3"]
+      },
+      "G": {
+        "name": "Ebadd9/G",
+        "notes": ["F4", "D#4", "A#3", "G3"]
+      },
+      "Gs": {
+        "name": "Ab7sus",
+        "notes": ["F#4", "C#4", "A#3", "G#3"]
+      },
+      "A": {
+        "name": "AdimM7",
+        "notes": ["G#4", "D#4", "C4", "A3"]
+      },
+      "As": {
+        "name": "Bbm9",
+        "notes": ["G#4", "C#4", "C4", "A#3"]
+      },
+      "B": {
+        "name": "Gb/B",
+        "notes": ["A#4", "F#4", "C#4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 81,
+    "name": "Neo-Soul",
+    "chords": {
+      "C": {
+        "name": "C7alt",
+        "notes": ["Eb3", "Ab3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "DbM7add6",
+        "notes": ["C4", "Bb3", "F3", "Db3"]
+      },
+      "D": {
+        "name": "Bb7/D",
+        "notes": ["Bb3", "Ab3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "Db/Eb",
+        "notes": ["Ab3", "F3", "Db3", "Eb2"]
+      },
+      "E": {
+        "name": "Edim7",
+        "notes": ["G3", "Db3", "Bb2", "E2"]
+      },
+      "F": {
+        "name": "Fm9",
+        "notes": ["G3", "Eb3", "Ab2", "F2"]
+      },
+      "Fs": {
+        "name": "Gb6/9",
+        "notes": ["Ab3", "Eb3", "Bb2", "Gb2"]
+      },
+      "G": {
+        "name": "Gm7b5",
+        "notes": ["C4", "F3", "Db3", "G2"]
+      },
+      "Gs": {
+        "name": "Eb/Ab",
+        "notes": ["Bb3", "G3", "Eb3", "Ab2"]
+      },
+      "A": {
+        "name": "F7/A",
+        "notes": ["C4", "F3", "Eb3", "A2"]
+      },
+      "As": {
+        "name": "Bbm9",
+        "notes": ["C4", "F3", "Db3", "Bb2"]
+      },
+      "B": {
+        "name": "BM7#11",
+        "notes": ["Bb3", "F3", "Eb3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 82,
+    "name": "Jazz/Bossa",
+    "chords": {
+      "C": {
+        "name": "Gm7",
+        "notes": ["D4", "Bb3", "F3", "G2"]
+      },
+      "Cs": {
+        "name": "Bb/Ab",
+        "notes": ["D4", "Bb3", "F3", "Ab2"]
+      },
+      "D": {
+        "name": "Am7",
+        "notes": ["E4", "C4", "G3", "A2"]
+      },
+      "Ds": {
+        "name": "C/Bb",
+        "notes": ["E4", "C4", "G3", "Bb2"]
+      },
+      "E": {
+        "name": "Bm7",
+        "notes": ["F#4", "D4", "A3", "B2"]
+      },
+      "F": {
+        "name": "D/C",
+        "notes": ["F#4", "D4", "A3", "C3"]
+      },
+      "Fs": {
+        "name": "C#m7",
+        "notes": ["G#4", "E4", "B3", "C#3"]
+      },
+      "G": {
+        "name": "E/D",
+        "notes": ["G#4", "E4", "B3", "D3"]
+      },
+      "Gs": {
+        "name": "D#m7",
+        "notes": ["A#4", "F#4", "C#4", "D#3"]
+      },
+      "A": {
+        "name": "F#/E",
+        "notes": ["A#4", "F#4", "C#4", "E3"]
+      },
+      "As": {
+        "name": "Fm7",
+        "notes": ["C5", "Ab4", "Eb4", "F3"]
+      },
+      "B": {
+        "name": "Ab/Gb",
+        "notes": ["C5", "Ab4", "Eb4", "Gb3"]
+      }
+    }
+  },
+  {
+    "set": 83,
+    "name": "Bossa Nova",
+    "chords": {
+      "C": {
+        "name": "CM9",
+        "notes": ["D5", "B4", "E4", "C4"]
+      },
+      "Cs": {
+        "name": "C#dim",
+        "notes": ["E5", "A#4", "G4", "C#4"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["F5", "C5", "A4", "D4"]
+      },
+      "Ds": {
+        "name": "D#dim",
+        "notes": ["B5", "F#5", "C5", "D#4"]
+      },
+      "E": {
+        "name": "CM9/E",
+        "notes": ["G5", "D5", "C5", "E4"]
+      },
+      "F": {
+        "name": "FM9",
+        "notes": ["G5", "E5", "A4", "F4"]
+      },
+      "Fs": {
+        "name": "F#dim",
+        "notes": ["A5", "D#5", "C5", "F#4"]
+      },
+      "G": {
+        "name": "Gm9",
+        "notes": ["A5", "F5", "Bb4", "G4"]
+      },
+      "Gs": {
+        "name": "C13b9",
+        "notes": ["A5", "E5", "Db5", "C4"]
+      },
+      "A": {
+        "name": "F6",
+        "notes": ["A5", "D5", "C5", "F4"]
+      },
+      "As": {
+        "name": "BbM9",
+        "notes": ["C6", "A5", "D5", "Bb4"]
+      },
+      "B": {
+        "name": "G13b9",
+        "notes": ["E5", "B4", "Ab4", "G3"]
+      }
+    }
+  },
+  {
+    "set": 84,
+    "name": "Bossa Nova",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["E5", "B4", "G4", "C4"]
+      },
+      "Cs": {
+        "name": "C#Dim",
+        "notes": ["G5", "E5", "A#4", "C#4"]
+      },
+      "D": {
+        "name": "Dm11",
+        "notes": ["G5", "F5", "C5", "D4"]
+      },
+      "Ds": {
+        "name": "D#Dim",
+        "notes": ["A5", "F#5", "C5", "D#4"]
+      },
+      "E": {
+        "name": "Em11",
+        "notes": ["A5", "G5", "D5", "E4"]
+      },
+      "F": {
+        "name": "G/F",
+        "notes": ["B5", "G5", "D5", "F4"]
+      },
+      "Fs": {
+        "name": "F9#11",
+        "notes": ["B5", "G5", "Eb5", "F4"]
+      },
+      "G": {
+        "name": "Gsus13",
+        "notes": ["E5", "C5", "F4", "G3"]
+      },
+      "Gs": {
+        "name": "Abdim7",
+        "notes": ["E5", "B4", "F4", "Ab3"]
+      },
+      "A": {
+        "name": "FM7/A",
+        "notes": ["E5", "C5", "F4", "A3"]
+      },
+      "As": {
+        "name": "Bb13",
+        "notes": ["G5", "D5", "Ab4", "Bb3"]
+      },
+      "B": {
+        "name": "Eb/B",
+        "notes": ["G5", "Eb5", "Bb4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 85,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "CM7#11",
+        "notes": ["B4", "F#4", "E4", "C3"]
+      },
+      "Cs": {
+        "name": "DbM7#11",
+        "notes": ["C5", "G4", "F4", "Db3"]
+      },
+      "D": {
+        "name": "Dm9",
+        "notes": ["E5", "G4", "F4", "D3"]
+      },
+      "Ds": {
+        "name": "EbM7#11",
+        "notes": ["D5", "A4", "G4", "Eb3"]
+      },
+      "E": {
+        "name": "Em9",
+        "notes": ["F#5", "A4", "G4", "E3"]
+      },
+      "F": {
+        "name": "FM7#11",
+        "notes": ["E5", "B4", "A4", "F3"]
+      },
+      "Fs": {
+        "name": "F#m11",
+        "notes": ["E5", "B4", "A4", "F#3"]
+      },
+      "G": {
+        "name": "G6/9",
+        "notes": ["A5", "E5", "B4", "G3"]
+      },
+      "Gs": {
+        "name": "AbM7#11",
+        "notes": ["G5", "D5", "C5", "Ab3"]
+      },
+      "A": {
+        "name": "Am9",
+        "notes": ["B5", "D5", "C5", "A3"]
+      },
+      "As": {
+        "name": "BbM13",
+        "notes": ["G5", "D5", "A4", "Bb3"]
+      },
+      "B": {
+        "name": "Bm11b5",
+        "notes": ["E5", "A4", "F4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 86,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "CM9",
+        "notes": ["B4", "E4", "D4", "C3"]
+      },
+      "Cs": {
+        "name": "Db9#11",
+        "notes": ["Bb4", "F4", "B3", "Db3"]
+      },
+      "D": {
+        "name": "Dm9",
+        "notes": ["C5", "F4", "E4", "D3"]
+      },
+      "Ds": {
+        "name": "D13b9/Eb",
+        "notes": ["B4", "Gb4", "C4", "Eb3"]
+      },
+      "E": {
+        "name": "Em11",
+        "notes": ["A4", "G4", "D4", "E3"]
+      },
+      "F": {
+        "name": "FM13",
+        "notes": ["A4", "E4", "D4", "F3"]
+      },
+      "Fs": {
+        "name": "E/F",
+        "notes": ["B4", "G#4", "E4", "F3"]
+      },
+      "G": {
+        "name": "FM7/G",
+        "notes": ["E5", "A4", "F4", "G3"]
+      },
+      "Gs": {
+        "name": "Ab7#9#5",
+        "notes": ["B5", "E5", "C5", "Ab3"]
+      },
+      "A": {
+        "name": "Am9/11",
+        "notes": ["B5", "D5", "C5", "A3"]
+      },
+      "As": {
+        "name": "BbM9",
+        "notes": ["A5", "D5", "C5", "Bb3"]
+      },
+      "B": {
+        "name": "Bdim7",
+        "notes": ["G5", "D5", "Ab4", "B3"]
+      }
+    }
+  },
+  {
+    "set": 87,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "Cmaj7",
+        "notes": ["E4", "B3", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "Aadd9/C#",
+        "notes": ["E4", "B3", "A3", "C#3"]
+      },
+      "D": {
+        "name": "Dm6",
+        "notes": ["F4", "B3", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "B7/D#",
+        "notes": ["F#4", "B3", "A3", "D#3"]
+      },
+      "E": {
+        "name": "Em7",
+        "notes": ["G4", "D4", "B3", "E3"]
+      },
+      "F": {
+        "name": "Fmaj9",
+        "notes": ["G4", "E4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "Dadd9/F#",
+        "notes": ["A4", "E4", "D4", "F#3"]
+      },
+      "G": {
+        "name": "Gm7/9",
+        "notes": ["A4", "F4", "Bb3", "G3"]
+      },
+      "Gs": {
+        "name": "Abmaj9",
+        "notes": ["Bb4", "G4", "C4", "Ab3"]
+      },
+      "B": {
+        "name": "Cadd9/G",
+        "notes": ["B4", "E4", "C4", "G3"]
+      },
+      "As": {
+        "name": "Eadd9/G#",
+        "notes": ["B4", "F#4", "E4", "G#3"]
+      },
+      "A": {
+        "name": "Asus7",
+        "notes": ["D5", "B4", "G4", "A3"]
+      }
+    }
+  },
+  {
+    "set": 88,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "Fmaj7/9",
+        "notes": ["C4", "A3", "G3", "E3"]
+      },
+      "Cs": {
+        "name": "Gm7/b5",
+        "notes": ["Db4", "Bb3", "G3", "F3"]
+      },
+      "D": {
+        "name": "Abmaj7/9",
+        "notes": ["Eb4", "C4", "Bb3", "G3"]
+      },
+      "Ds": {
+        "name": "Bbm7/b5",
+        "notes": ["E4", "Db4", "Bb3", "Ab3"]
+      },
+      "E": {
+        "name": "Bmaj7/9",
+        "notes": ["F#4", "D#4", "C#4", "A#3"]
+      },
+      "F": {
+        "name": "C#m7/b5",
+        "notes": ["G4", "E4", "C#4", "B3"]
+      },
+      "Fs": {
+        "name": "DM7/9",
+        "notes": ["A4", "F#4", "E4", "C#4"]
+      },
+      "G": {
+        "name": "Em7/b5",
+        "notes": ["A#4", "G4", "E4", "D4"]
+      },
+      "Gs": {
+        "name": "CM7/9",
+        "notes": ["B4", "G4", "E4", "D4"]
+      },
+      "A": {
+        "name": "Dm7b5/9",
+        "notes": ["C5", "Ab4", "F4", "E4"]
+      },
+      "As": {
+        "name": "GbM7/9",
+        "notes": ["Db5", "Bb4", "Ab4", "F4"]
+      },
+      "B": {
+        "name": "Abm7/b5",
+        "notes": ["D5", "B4", "Ab4", "Gb4"]
+      }
+    }
+  },
+  {
+    "set": 89,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "Cadd9",
+        "notes": ["G4", "E4", "D4", "C4"]
+      },
+      "Cs": {
+        "name": "C#dim7",
+        "notes": ["A#4", "G4", "E4", "C#4"]
+      },
+      "D": {
+        "name": "Gadd13/B",
+        "notes": ["G4", "E4", "D4", "B3"]
+      },
+      "Ds": {
+        "name": "D#dim#5",
+        "notes": ["B4", "A4", "F#4", "D#4"]
+      },
+      "E": {
+        "name": "FM7/E",
+        "notes": ["C5", "A4", "F4", "E4"]
+      },
+      "F": {
+        "name": "G7sus2/F",
+        "notes": ["D5", "A4", "G4", "F4"]
+      },
+      "Fs": {
+        "name": "D#dim7",
+        "notes": ["C5", "A4", "F#4", "D#4"]
+      },
+      "G": {
+        "name": "C6",
+        "notes": ["A4", "G4", "E4", "C4"]
+      },
+      "Gs": {
+        "name": "Ddim7",
+        "notes": ["B4", "G#4", "F4", "D4"]
+      },
+      "A": {
+        "name": "Am/C",
+        "notes": ["C5", "A4", "E4", "C4"]
+      },
+      "As": {
+        "name": "Dm7b5",
+        "notes": ["C5", "G#4", "F4", "D4"]
+      },
+      "B": {
+        "name": "G7/D",
+        "notes": ["B4", "G4", "F4", "D4"]
+      }
+    }
+  },
+  {
+    "set": 90,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "Em7",
+        "notes": ["D4", "B3", "G3", "E3"]
+      },
+      "Cs": {
+        "name": "Edim7",
+        "notes": ["C#4", "A#3", "G3", "E3"]
+      },
+      "D": {
+        "name": "FM7",
+        "notes": ["E4", "C4", "A3", "F3"]
+      },
+      "Ds": {
+        "name": "F#dim7",
+        "notes": ["D#4", "C4", "A3", "F#3"]
+      },
+      "E": {
+        "name": "Em7",
+        "notes": ["D4", "B3", "G3", "E3"]
+      },
+      "F": {
+        "name": "C6/E",
+        "notes": ["C4", "A3", "G3", "E3"]
+      },
+      "Fs": {
+        "name": "F#dim7",
+        "notes": ["D#4", "C4", "A3", "F#3"]
+      },
+      "G": {
+        "name": "FM7b5",
+        "notes": ["E4", "B3", "A3", "F3"]
+      },
+      "Gs": {
+        "name": "Eb7/F",
+        "notes": ["E4", "B3", "G#3", "F3"]
+      },
+      "A": {
+        "name": "Gadd9",
+        "notes": ["D4", "B3", "A3", "G3"]
+      },
+      "As": {
+        "name": "A#11/F",
+        "notes": ["E4", "D4", "A#3", "F3"]
+      },
+      "B": {
+        "name": "F#dim7",
+        "notes": ["D#4", "C4", "A3", "F#3"]
+      }
+    }
+  },
+  {
+    "set": 91,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "Gm7",
+        "notes": ["D4", "A#3", "F3", "G2"]
+      },
+      "Cs": {
+        "name": "G#M7",
+        "notes": ["D#4", "C4", "G3", "G#2"]
+      },
+      "D": {
+        "name": "Am7",
+        "notes": ["E4", "C4", "G3", "A2"]
+      },
+      "Ds": {
+        "name": "A#M7",
+        "notes": ["F4", "D4", "A3", "A#2"]
+      },
+      "E": {
+        "name": "G/B",
+        "notes": ["D4", "G3", "B2"]
+      },
+      "F": {
+        "name": "D#M7",
+        "notes": ["D4", "A#3", "G3", "D#3"]
+      },
+      "Fs": {
+        "name": "A#/D",
+        "notes": ["D4", "A#3", "G3", "D#3"]
+      },
+      "G": {
+        "name": "D",
+        "notes": ["D4", "A3", "F#3", "D3"]
+      },
+      "Gs": {
+        "name": "CM7sus2",
+        "notes": ["D4", "B3", "G3", "C3"]
+      },
+      "A": {
+        "name": "Em7",
+        "notes": ["D4", "B3", "G3", "E3"]
+      },
+      "As": {
+        "name": "F6",
+        "notes": ["D4", "C4", "A3", "F3"]
+      },
+      "B": {
+        "name": "C6sus2b5",
+        "notes": ["D4", "A3", "F#3", "C3"]
+      }
+    }
+  },
+  {
+    "set": 92,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "A#M7",
+        "notes": ["A3", "F3", "D3", "A#2"]
+      },
+      "Cs": {
+        "name": "BM7",
+        "notes": ["A#3", "F#3", "D#3", "B2"]
+      },
+      "D": {
+        "name": "Cm7b5",
+        "notes": ["A#3", "F#3", "D#3", "C3"]
+      },
+      "Ds": {
+        "name": "C#dim7",
+        "notes": ["A#3", "G3", "E3", "C#3"]
+      },
+      "E": {
+        "name": "Em7b5/D",
+        "notes": ["A#3", "G3", "E3", "D3"]
+      },
+      "F": {
+        "name": "Fm7/D#",
+        "notes": ["C4", "G#3", "F3", "D#3"]
+      },
+      "Fs": {
+        "name": "Edim7",
+        "notes": ["C#4", "A#3", "G3", "E3"]
+      },
+      "G": {
+        "name": "F7/D#",
+        "notes": ["C4", "A3", "F3", "D#3"]
+      },
+      "Gs": {
+        "name": "F#dim7",
+        "notes": ["D#4", "C4", "A3", "F#3"]
+      },
+      "A": {
+        "name": "Gm7/F",
+        "notes": ["D4", "A#3", "G3", "F3"]
+      },
+      "As": {
+        "name": "G#M7/D#",
+        "notes": ["C4", "G#3", "G3", "D#3"]
+      },
+      "B": {
+        "name": "F7/D#",
+        "notes": ["C4", "A3", "F3", "D#3"]
+      }
+    }
+  },
+  {
+    "set": 93,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "A#M7/A",
+        "notes": ["F3", "D3", "A#2", "A2"]
+      },
+      "Cs": {
+        "name": "G#6",
+        "notes": ["F3", "D#3", "C3", "G#2"]
+      },
+      "D": {
+        "name": "Am7",
+        "notes": ["G3", "E3", "C3", "A2"]
+      },
+      "Ds": {
+        "name": "A#M7",
+        "notes": ["A3", "F3", "D3", "A#2"]
+      },
+      "E": {
+        "name": "Gadd11/B",
+        "notes": ["G3", "D3", "C3", "B2"]
+      },
+      "F": {
+        "name": "FM7/C",
+        "notes": ["A3", "F3", "E3", "C3"]
+      },
+      "Fs": {
+        "name": "A7/C",
+        "notes": ["A3", "G3", "E3", "C#3"]
+      },
+      "G": {
+        "name": "D7/C",
+        "notes": ["A3", "F#3", "D3", "C3"]
+      },
+      "Gs": {
+        "name": "D#M7b5/D",
+        "notes": ["A3", "G3", "D#3", "D3"]
+      },
+      "A": {
+        "name": "Cadd9/D",
+        "notes": ["C4", "G3", "E3", "D3"]
+      },
+      "As": {
+        "name": "Fadd9",
+        "notes": ["C4", "A3", "G3", "F3"]
+      },
+      "B": {
+        "name": "Cdim7",
+        "notes": ["A3", "F#3", "D#3", "C3"]
+      }
+    }
+  },
+  {
+    "set": 94,
+    "name": "Jazz",
+    "chords": {
+      "C": {
+        "name": "CM7",
+        "notes": ["B4", "E4", "G3", "C3"]
+      },
+      "Cs": {
+        "name": "DbM7",
+        "notes": ["C5", "F4", "G#3", "C#3"]
+      },
+      "D": {
+        "name": "Dm7",
+        "notes": ["C5", "F4", "A3", "D3"]
+      },
+      "Ds": {
+        "name": "Ebm7add13",
+        "notes": ["C5", "F#4", "C#4", "D#3"]
+      },
+      "E": {
+        "name": "Em7/b13",
+        "notes": ["C5", "G4", "D4", "E3"]
+      },
+      "F": {
+        "name": "Fm7",
+        "notes": ["C5", "G#4", "D#4", "F3"]
+      },
+      "Fs": {
+        "name": "F#m7/b5",
+        "notes": ["C5", "A4", "E4", "F#3"]
+      },
+      "G": {
+        "name": "G9sus",
+        "notes": ["A4", "F4", "C4", "G3"]
+      },
+      "Gs": {
+        "name": "G#dim7",
+        "notes": ["B4", "F4", "D4", "G#3"]
+      },
+      "A": {
+        "name": "Am6",
+        "notes": ["C5", "F#4", "E4", "A3"]
+      },
+      "As": {
+        "name": "F/Bb",
+        "notes": ["A4", "F4", "C4", "A#2"]
+      },
+      "B": {
+        "name": "Bdim7",
+        "notes": ["G#4", "D4", "F3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 95,
+    "name": "Classical",
+    "chords": {
+      "C": {
+        "name": "FM7/E",
+        "notes": ["A4", "F4", "E4"]
+      },
+      "Cs": {
+        "name": "Bdim/D",
+        "notes": ["B4", "F4", "D4"]
+      },
+      "D": {
+        "name": "Am",
+        "notes": ["C5", "E4", "A3"]
+      },
+      "Ds": {
+        "name": "G#dim7",
+        "notes": ["D5", "F4", "B3", "G#3"]
+      },
+      "E": {
+        "name": "C/G",
+        "notes": ["E5", "E4", "C4", "G4"]
+      },
+      "F": {
+        "name": "Amb9/C",
+        "notes": ["A5", "A#4", "E4", "C4"]
+      },
+      "Fs": {
+        "name": "Fadd9/C",
+        "notes": ["G5", "A4", "F4", "C4"]
+      },
+      "G": {
+        "name": "Dm",
+        "notes": ["F5", "A4", "F4", "D3"]
+      },
+      "Gs": {
+        "name": "C/G",
+        "notes": ["E5", "G4", "C4", "G2"]
+      },
+      "A": {
+        "name": "C/G",
+        "notes": ["C5", "E4", "G3", "G2"]
+      },
+      "As": {
+        "name": "Fadd9/G",
+        "notes": ["A4", "F4", "C4", "G2"]
+      },
+      "B": {
+        "name": "Ddim/G",
+        "notes": ["G#4", "F4", "D4", "G2"]
+      }
+    }
+  },
+  {
+    "set": 96,
+    "name": "Classical",
+    "chords": {
+      "C": {
+        "name": "Am",
+        "notes": ["E4", "C4", "A3", "A2"]
+      },
+      "Cs": {
+        "name": "Bm7/A",
+        "notes": ["D4", "B3", "A3", "A2"]
+      },
+      "D": {
+        "name": "Fdim/B",
+        "notes": ["F4", "B3", "G#3", "B2"]
+      },
+      "Ds": {
+        "name": "C/E",
+        "notes": ["E4", "C4", "G3", "E3"]
+      },
+      "E": {
+        "name": "A7/G",
+        "notes": ["E4", "C#4", "A3", "G3"]
+      },
+      "F": {
+        "name": "Dm7",
+        "notes": ["F4", "C4", "A3", "D3"]
+      },
+      "Fs": {
+        "name": "D#aug",
+        "notes": ["D#4", "B3", "G3", "D#3"]
+      },
+      "G": {
+        "name": "E",
+        "notes": ["E4", "B3", "G#3", "E3"]
+      },
+      "Gs": {
+        "name": "F",
+        "notes": ["F4", "C4", "A3", "F3"]
+      },
+      "A": {
+        "name": "D/F#",
+        "notes": ["D4", "A3", "F#3", "F#2"]
+      },
+      "As": {
+        "name": "C/G",
+        "notes": ["E4", "C4", "G3", "G2"]
+      },
+      "B": {
+        "name": "E/G#",
+        "notes": ["E4", "B3", "G#3", "G#2"]
+      }
+    }
+  },
+  {
+    "set": 97,
+    "name": "Classical",
+    "chords": {
+      "C": {
+        "name": "F#/C#",
+        "notes": ["F#4", "A#3", "F#3", "C#3"]
+      },
+      "Cs": {
+        "name": "F#/A#",
+        "notes": ["F#4", "C#4", "F#3", "A#2"]
+      },
+      "D": {
+        "name": "G#m7",
+        "notes": ["F#4", "B3", "F#3", "G#2"]
+      },
+      "Ds": {
+        "name": "A6",
+        "notes": ["F#4", "C#4", "E3", "A2"]
+      },
+      "E": {
+        "name": "F#/C#",
+        "notes": ["F#4", "C#4", "F#3", "A#2"]
+      },
+      "F": {
+        "name": "Bsus2",
+        "notes": ["F#4", "C#4", "F#3", "B2"]
+      },
+      "Fs": {
+        "name": "G#/C",
+        "notes": ["G#4", "D#4", "G#3", "C3"]
+      },
+      "G": {
+        "name": "C#7",
+        "notes": ["F4", "B3", "G#3", "C#3"]
+      },
+      "Gs": {
+        "name": "A#7/D",
+        "notes": ["F4", "A#3", "G#3", "D3"]
+      },
+      "A": {
+        "name": "F#6sus4/C#",
+        "notes": ["D#4", "B3", "F#3", "C#3"]
+      },
+      "As": {
+        "name": "C#m7",
+        "notes": ["E4", "B3", "G#3", "C#3"]
+      },
+      "B": {
+        "name": "C#7",
+        "notes": ["F4", "B3", "F3", "C#3"]
+      }
+    }
+  },
+  {
+    "set": 98,
+    "name": "Classical",
+    "chords": {
+      "C": {
+        "name": "Dm",
+        "notes": ["D4", "A3", "F3", "D2"]
+      },
+      "Cs": {
+        "name": "D#M7/D",
+        "notes": ["D#4", "A#3", "G3", "D2"]
+      },
+      "D": {
+        "name": "E7/D",
+        "notes": ["B3", "G#3", "E3", "D2"]
+      },
+      "Ds": {
+        "name": "Dm7",
+        "notes": ["C4", "A3", "F3", "D2"]
+      },
+      "E": {
+        "name": "D7",
+        "notes": ["C4", "A3", "F#3", "D2"]
+      },
+      "F": {
+        "name": "Gm/D",
+        "notes": ["D4", "A#3", "G3", "D2"]
+      },
+      "Fs": {
+        "name": "G#/D",
+        "notes": ["D#4", "C4", "G#3", "D2"]
+      },
+      "G": {
+        "name": "A/D",
+        "notes": ["E4", "C#4", "A3", "D2"]
+      },
+      "Gs": {
+        "name": "A#add9/D",
+        "notes": ["F4", "C4", "A#3", "D2"]
+      },
+      "A": {
+        "name": "DM7(13)",
+        "notes": ["F#4", "C#4", "B3", "D2"]
+      },
+      "As": {
+        "name": "Csus2/D",
+        "notes": ["G4", "D4", "C4", "D2"]
+      },
+      "B": {
+        "name": "G#dim/D",
+        "notes": ["G#4", "D4", "B3", "D2"]
+      }
+    }
+  },
+  {
+    "set": 99,
+    "name": "Modern",
+    "chords": {
+      "C": {
+        "name": "CM13",
+        "notes": ["B3", "A3", "E3", "C3"]
+      },
+      "Cs": {
+        "name": "AM9/C#",
+        "notes": ["B3", "A3", "E3", "C#3"]
+      },
+      "D": {
+        "name": "Dm13",
+        "notes": ["C4", "B3", "F3", "D3"]
+      },
+      "Ds": {
+        "name": "EbM13",
+        "notes": ["D4", "C4", "G3", "D#3"]
+      },
+      "E": {
+        "name": "CM9/E",
+        "notes": ["D4", "C4", "G3", "E3"]
+      },
+      "F": {
+        "name": "FM13",
+        "notes": ["E4", "D4", "A3", "F3"]
+      },
+      "Fs": {
+        "name": "FmM13",
+        "notes": ["E4", "D4", "G#3", "F3"]
+      },
+      "G": {
+        "name": "CM9 (no3)/G",
+        "notes": ["B4", "D4", "C4", "G3"]
+      },
+      "Gs": {
+        "name": "AbMb5/#9",
+        "notes": ["B4", "D4", "C4", "G#3"]
+      },
+      "A": {
+        "name": "Am11",
+        "notes": ["D4", "G3", "C3", "A2"]
+      },
+      "As": {
+        "name": "BbM9",
+        "notes": ["D4", "A3", "C3", "A#2"]
+      },
+      "B": {
+        "name": "G6/9",
+        "notes": ["E4", "A3", "G3", "B2"]
+      }
+    }
+  },
+  {
+    "set": 100,
+    "name": "Modern",
+    "chords": {
+      "C": {
+        "name": "CM9",
+        "notes": ["B4", "E4", "D4", "C3"]
+      },
+      "Cs": {
+        "name": "Cm9",
+        "notes": ["Bb4", "Eb4", "D4", "C3"]
+      },
+      "D": {
+        "name": "Dm9",
+        "notes": ["C5", "F4", "E4", "D3"]
+      },
+      "Ds": {
+        "name": "Dm6/9",
+        "notes": ["B4", "F4", "E4", "D3"]
+      },
+      "E": {
+        "name": "CM9/E",
+        "notes": ["B4", "D4", "C4", "E3"]
+      },
+      "F": {
+        "name": "Dm9/F",
+        "notes": ["C5", "E4", "D4", "F3"]
+      },
+      "Fs": {
+        "name": "D9/F#",
+        "notes": ["C5", "E4", "D4", "F#3"]
+      },
+      "G": {
+        "name": "Gsus13",
+        "notes": ["E5", "A4", "F4", "G3"]
+      },
+      "Gs": {
+        "name": "G13b9",
+        "notes": ["E5", "Ab4", "F4", "G3"]
+      },
+      "A": {
+        "name": "AbMaj13",
+        "notes": ["E5", "Bb4", "G4", "Ab3"]
+      },
+      "As": {
+        "name": "AbDimM7",
+        "notes": ["G5", "B4", "F4", "Ab3"]
+      },
+      "B": {
+        "name": "BbM13",
+        "notes": ["A5", "D5", "G4", "Bb3"]
+      }
+    }
+  }
+]
